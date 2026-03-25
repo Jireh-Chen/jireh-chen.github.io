@@ -5,8 +5,10 @@ title: Welcome to Yile Chen's Homepage
 
 <style>
   header img {
-    max-width: 120px;
+    max-width: 150px;
     height: auto;
+    margin: 0 auto 20px auto;
+    border-radius: 8px;
   }
   p, li {
     text-align: justify;
