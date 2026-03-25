@@ -13,11 +13,10 @@ title: Welcome to Yile Chen's Homepage
   }
 </style>
 
-# About Me
 
-[Email](mailto:jireh.y.chen@gmail.com) / [GitHub]() / [Google Scholar]() / [CV]()
+I am a PhD Candidate at **South China University of Technology (SCUT)** and a Research Assistant at **HKUST-GZ**. My research focuses on **Automated Machine Learning (AutoML)** and **Efficient Configuration Optimization**. Currently, I am exploring adaptive configuration methods to improve the robustness of large-scale models.
 
-I am a PhD Candidate at **South China University of Technology (SCUT)** and a Research Assistant at **HKUST-GZ**. My research focuses on **Automated Machine Learning (AutoML)**, **Efficient Configuration Optimization**, and **Hyperparameter Optimization**. Currently, I am exploring adaptive configuration methods to improve the robustness of large-scale models.
+[Email](mailto:jireh.y.chen@gmail.com) / [GitHub](https://github.com/Jireh-Chen) / [Google Scholar](https://scholar.google.com/citations?user=LgNrqQQAAAAJ&hl=zh-CN) / [CV]()
 
 # News
 
@@ -37,3 +36,4 @@ I am a PhD Candidate at **South China University of Technology (SCUT)** and a Re
   Enhancing the Performance of Bandit-based Hyperparameter Optimization.
   *The 40th IEEE International Conference on Data Engineering (**ICDE**)*, 2024. [PDF]()
 
+[**View Full Publication List &rarr;**](/publications)
