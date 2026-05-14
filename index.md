@@ -21,12 +21,13 @@ title: Welcome to Yile Chen's Homepage
 
 
 
-I am a PhD Candidate at **South China University of Technology (SCUT)** and a Research Assistant at **HKUST-GZ**. My research focuses on **Automated Machine Learning (AutoML)** and **Efficient Configuration Optimization**. Currently, I am exploring adaptive configuration methods to improve the robustness of large-scale models.
+I am a PhD Candidate at **South China University of Technology (SCUT)** and a Research Assistant at **HKUST-GZ**. My research focuses on **Automated Machine Learning (AutoML)** and **LLM Agents**. Currently, I am exploring autonomous workflows for scalable and reliable models, building resilient agentic systems to optimize real-world engineering pipelines under resource limits.
 
 [Email](mailto:jireh.y.chen@gmail.com) / [GitHub](https://github.com/Jireh-Chen) / [Google Scholar](https://scholar.google.com/citations?user=LgNrqQQAAAAJ&hl=zh-CN) / [CV]()
 
 ## News
 
+- [2026.05] Our Paper **"EaSFE: Scalable and Efficient Feature Engineering for Boosting Machine Learning Performance"** accepted by **ACM TKDD**!
 - [2026.01] Our Paper **"Towards Dynamic Interleaving Optimizers"** accepted by **ICLR 2026**!
 - [2025.11] Our Paper **"A Better Start: Sensitivity-Aware Warm-Up for Robust and Efficient Fine-Tuning"** accepted by **AAAI 2026**!
 - [2025.06] Our Paper **"Towards Recommendation on Good Quality Data Science Solutions"** accepted by **ACM TKDD**!
@@ -44,3 +45,4 @@ I am a PhD Candidate at **South China University of Technology (SCUT)** and a Re
   *The 40th IEEE International Conference on Data Engineering (**ICDE**)*, 2024. [PDF](/assets/pdf/2024-ICDE-ConfEval.pdf)
 
  [**View Full Publication List &rarr;**](/publications)
+
