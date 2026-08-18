@@ -11,6 +11,9 @@ Back to [Yile's Homepage](/).
 
 ## 2026
 
+- Yile Chen, Zeyuan Lin, Yawen Chen, Jian Chen, Zeyi Wen, and Jin Huang.
+  Mining Input-Inherent Context: A Parameter-Free Kernel Attention Mechanism for CNNs.
+  *IEEE International Conference on Data Mining (**ICDM**)*, 2026. to appear.
 - Jian Chen, **Yile Chen**, Zhenya Zheng, Zeyi Wen, Yawen Chen, Jin Huang.
   EaSFE: Scalable and Efficient Feature Engineering for Boosting Machine Learning Performance.
   *ACM Trasaction on Knowledge Discovery from Data (**TKDD**)*, 2026. [PDF](/assets/pdf/2026-TKDD-EaSFE.pdf)

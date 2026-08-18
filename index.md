@@ -27,6 +27,7 @@ I am a PhD Candidate at **South China University of Technology (SCUT)** and a Re
 
 ## News
 
+- [2026.08] Our Paper **"Mining Input-Inherent Context: A Parameter-Free Kernel Attention Mechanism for CNNs"** accepted by **ICDM 2026**!
 - [2026.05] Our Paper **"EaSFE: Scalable and Efficient Feature Engineering for Boosting Machine Learning Performance"** accepted by **ACM TKDD**!
 - [2026.01] Our Paper **"Towards Dynamic Interleaving Optimizers"** accepted by **ICLR 2026**!
 - [2025.11] Our Paper **"A Better Start: Sensitivity-Aware Warm-Up for Robust and Efficient Fine-Tuning"** accepted by **AAAI 2026**!
