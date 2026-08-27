@@ -1,0 +1,303 @@
+/* ======================================================
+   Publications Archive — Newspaper Theme
+   Reuses variables and typography from style.css
+   ====================================================== */
+
+.publications-broadsheet {
+    max-width: 1040px;
+}
+
+.publications-header {
+    margin-bottom: 24px;
+}
+
+.publications-topline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 8px;
+}
+
+.back-home,
+.archive-label {
+    font-family: var(--font-sub);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.back-home {
+    color: var(--red);
+}
+
+.back-home:hover {
+    text-decoration: underline;
+}
+
+.archive-label {
+    color: var(--ink-muted);
+}
+
+.publications-title-rule {
+    height: 3px;
+    background: var(--rule);
+}
+
+.publications-title-rule-thin {
+    height: 1px;
+}
+
+.publications-title {
+    padding: 10px 0 8px;
+    text-align: center;
+    font-family: var(--font-display);
+    font-size: clamp(1.55rem, 4vw, 2.25rem);
+    line-height: 1;
+    letter-spacing: 0.18em;
+    color: var(--ink);
+}
+
+.publications-intro {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 12px 0 0;
+    color: var(--ink-muted);
+    font-size: 0.76rem;
+}
+
+.publication-legend {
+    flex-shrink: 0;
+    font-family: var(--font-sub);
+    font-size: 0.68rem;
+    color: var(--ink-muted);
+}
+
+.legend-self {
+    font-weight: 700;
+    color: var(--red);
+}
+
+.legend-separator {
+    margin: 0 5px;
+}
+
+.publication-legend sup {
+    color: var(--red);
+    font-weight: 700;
+}
+
+/* ---- Year groups ---- */
+
+.pub-year-section {
+    display: grid;
+    grid-template-columns: 92px minmax(0, 1fr);
+    gap: 0 24px;
+    padding: 22px 0 10px;
+    border-top: 1px solid var(--rule-light);
+}
+
+.pub-year-section:first-child {
+    border-top: none;
+    padding-top: 8px;
+}
+
+.pub-year-column {
+    padding-top: 2px;
+}
+
+.pub-year {
+    position: sticky;
+    top: 14px;
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--ink);
+}
+
+.pub-year-count {
+    display: block;
+    margin-top: 7px;
+    font-family: var(--font-sub);
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+}
+
+.pub-year-list {
+    min-width: 0;
+}
+
+/* ---- Individual publication ---- */
+
+.pub-list-item {
+    position: relative;
+    padding: 0 0 18px 22px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--rule-light);
+}
+
+.pub-list-item:last-child {
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
+.pub-list-item::before {
+    content: attr(data-index);
+    position: absolute;
+    left: 0;
+    top: 2px;
+    font-family: var(--font-display);
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--ink-muted);
+}
+
+.pub-list-title {
+    margin: 0 0 4px;
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.28;
+    color: var(--ink);
+}
+
+.pub-list-authors {
+    margin: 0 0 5px;
+    font-family: var(--font-sub);
+    font-size: 0.78rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--ink-dim);
+}
+
+.pub-author-self {
+    font-weight: 700;
+    color: var(--red);
+}
+
+.pub-corresponding-mark {
+    margin-left: 1px;
+    color: var(--red);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.pub-list-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 7px 10px;
+}
+
+.pub-list-venue {
+    display: inline-block;
+    padding: 1px 6px;
+    border: 1px solid #aaa18e;
+    font-family: var(--font-sub);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+}
+
+.pub-list-links {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0;
+    font-family: var(--font-sub);
+    font-size: 0.68rem;
+}
+
+.pub-list-links a {
+    color: var(--red);
+}
+
+.pub-list-links a + a::before {
+    content: " · ";
+    color: var(--ink-muted);
+    white-space: pre;
+}
+
+.pub-list-note {
+    margin-top: 6px;
+    font-size: 0.76rem;
+    line-height: 1.45;
+    color: var(--ink-muted);
+}
+
+.publication-empty {
+    padding: 40px 0;
+    text-align: center;
+    color: var(--ink-muted);
+    font-style: italic;
+}
+
+/* ---- Footer ---- */
+
+.publication-page-footer {
+    margin-top: 26px;
+    text-align: center;
+}
+
+.publication-footer-rule {
+    height: 1px;
+    margin-bottom: 14px;
+    background: var(--rule-light);
+}
+
+.back-home-bottom {
+    display: inline-block;
+}
+
+/* ---- Responsive ---- */
+
+@media (max-width: 768px) {
+    .publications-intro {
+        display: block;
+    }
+
+    .publication-legend {
+        margin-top: 6px;
+    }
+
+    .pub-year-section {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .pub-year {
+        position: static;
+        display: inline-block;
+        font-size: 1.35rem;
+    }
+
+    .pub-year-count {
+        display: inline-block;
+        margin: 0 0 0 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .publications-topline {
+        align-items: flex-start;
+    }
+
+    .archive-label {
+        text-align: right;
+    }
+
+    .pub-list-item {
+        padding-left: 20px;
+    }
+
+    .pub-list-title {
+        font-size: 1rem;
+    }
+}
