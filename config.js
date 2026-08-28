@@ -65,6 +65,7 @@ const USER_CONFIG = {
       venue:    "ACM TKDD 2026",
       selected: false,
       correspondingAuthors: ["Yawen Chen"],
+      equalContributors: ["Jian Chen", "Yile Chen"],
       links:    { pdf: "/assets/pdf/2026-TKDD-EaSFE.pdf", code: "https://github.com/JirehChan/2026_TKDD_EaSFE"},
     },
     {

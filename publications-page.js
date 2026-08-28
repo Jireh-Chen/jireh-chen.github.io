@@ -80,44 +80,79 @@
     return [];
   };
 
+  const getEqualContributors = (paper) => {
+
+    const value =
+        paper.equalContributors ??
+        [];
+
+    if (Array.isArray(value)) {
+        return value;
+    }
+
+    if (typeof value === 'string') {
+        return value
+        .split(',')
+        .map(name => name.trim())
+        .filter(Boolean);
+    }
+
+    return [];
+  };
 
   const renderAuthors = (paper) => {
 
-    const selfName = normalizeName(cfg.authorName || cfg.name);
+    const selfName = normalizeName(
+        cfg.authorName || cfg.name
+    );
 
     const corresponding = new Set(
-      getCorrespondingAuthors(paper).map(normalizeName)
+        getCorrespondingAuthors(paper).map(normalizeName)
+    );
+
+    const equalContributors = new Set(
+        getEqualContributors(paper).map(normalizeName)
     );
 
     return getAuthors(paper)
-      .map(author => {
+        .map(author => {
 
         const normalized = normalizeName(author);
 
         const isSelf =
-          normalized === selfName;
+            normalized === selfName;
 
         const isCorresponding =
-          corresponding.has(normalized);
+            corresponding.has(normalized);
+
+        const isEqualContributor =
+            equalContributors.has(normalized);
 
 
-        // Highlight yourself
+        // Highlight myself
         const authorText = isSelf
-          ? `<span class="pub-author-self">${escapeHTML(author)}</span>`
-          : escapeHTML(author);
+            ? `<span class="pub-author-self">${escapeHTML(author)}</span>`
+            : escapeHTML(author);
 
 
-        // Corresponding author marker
+        // Equal contribution
+        const equalMark = isEqualContributor
+            ? `<sup class="pub-equal-mark"
+                    title="Equal contribution">†</sup>`
+            : '';
+
+
+        // Corresponding author
         const correspondingMark = isCorresponding
-          ? `<sup class="pub-corresponding-mark"
-                 title="Corresponding author">*</sup>`
-          : '';
+            ? `<sup class="pub-corresponding-mark"
+                    title="Corresponding author">*</sup>`
+            : '';
 
 
-        return `${authorText}${correspondingMark}`;
+        return `${authorText}${equalMark}${correspondingMark}`;
 
-      })
-      .join(', ');
+        })
+        .join(', ');
   };
 
 

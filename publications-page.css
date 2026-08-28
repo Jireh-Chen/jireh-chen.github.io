@@ -188,6 +188,28 @@
     font-weight: 700;
 }
 
+.pub-equal-mark {
+    color: #5f6f7a;
+    font-weight: 700;
+    margin-left: 1px;
+}
+
+.pub-corresponding-mark {
+    color: var(--red);
+    font-weight: 700;
+    margin-left: 1px;
+}
+
+.legend-equal {
+    color: #5f6f7a;
+    font-weight: 700;
+}
+
+.legend-corresponding {
+    color: var(--red);
+    font-weight: 700;
+}
+
 .pub-list-meta {
     display: flex;
     flex-wrap: wrap;
