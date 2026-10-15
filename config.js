@@ -55,7 +55,7 @@ const USER_CONFIG = {
       selected: true,
       selectedOrder: 3,
       correspondingAuthors: ["Zeyi Wen", "Jian Chen"],
-      links:    { pdf: ""},
+      links:    { pdf: "/assets/pdf/2026-ICDM-KA.pdf"},
       abstract: "Adds parameter-free kernel-based attention to CNNs, improving global representations and accuracy without architectural changes or extra inference overhead.",
     },
     {
