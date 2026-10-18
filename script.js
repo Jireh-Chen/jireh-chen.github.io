@@ -356,19 +356,18 @@ function populateLists(cfg) {
       .map(group => `
         <div class="service-entry">
           <span class="service-year">${group.year}</span>
-
           <div class="service-list">
-            ${group.reviews.map(review => `
-              <span class="service-item">
-                ${review.venue}
-                ${review.award
-                  ? `<span class="service-honor">(${review.award})</span>`
-                  : ''}
-                ${review.note
-                  ? `<span class="service-note">(${review.note})</span>`
-                  : ''}
-              </span>
-            `).join(', ')}
+            ${group.reviews.map(review => {
+              const award = review.award
+                ? `<span class="service-honor">(${review.award})</span>`
+                : '';
+
+              const note = review.note
+                ? `<span class="service-note">(${review.note})</span>`
+                : '';
+
+              return `<span class="service-item">${review.venue}${award || note ? ' ' : ''}${award}${award && note ? ' ' : ''}${note}</span>`;
+            }).join(', ')}
           </div>
         </div>
       `).join('');

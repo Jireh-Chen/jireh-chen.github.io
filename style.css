@@ -830,7 +830,7 @@ strong { color: var(--ink); }
 .service-entry {
     display: grid;
     grid-template-columns: 110px minmax(0, 1fr);
-    gap: 16px;
+    gap: 12px;
     align-items: baseline;
     padding: 9px 0;
     border-bottom: 1px dotted var(--rule-light);
