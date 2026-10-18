@@ -311,22 +311,6 @@ function populateLists(cfg) {
 
     let html = '';
 
-    if (edu.length) {
-      html += `
-        <div class="career-block">
-          <h5 class="career-cat">EDUCATION</h5>
-
-          ${edu.map(e => `
-            <div class="career-entry">
-              <span class="career-period">${e.period}</span>
-              <strong class="career-title">${e.degree}</strong>
-              <span class="career-place">${e.institution}</span>
-            </div>
-          `).join('')}
-        </div>
-      `;
-    }
-
     if (exp.length) {
       html += `
         <div class="career-block">
@@ -336,6 +320,22 @@ function populateLists(cfg) {
             <div class="career-entry">
               <span class="career-period">${e.period}</span>
               <strong class="career-title">${e.role}</strong>
+              <span class="career-place">${e.institution}</span>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    if (edu.length) {
+      html += `
+        <div class="career-block">
+          <h5 class="career-cat">EDUCATION</h5>
+
+          ${edu.map(e => `
+            <div class="career-entry">
+              <span class="career-period">${e.period}</span>
+              <strong class="career-title">${e.degree}</strong>
               <span class="career-place">${e.institution}</span>
             </div>
           `).join('')}
