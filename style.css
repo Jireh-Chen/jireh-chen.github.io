@@ -820,7 +820,7 @@ strong { color: var(--ink); }
 .service-entry {
     display: flex;
     align-items: baseline;
-    gap: 24px;
+    gap: 12px;
     padding: 9px 0;
     border-bottom: 1px dotted var(--rule-light);
 }
@@ -830,7 +830,7 @@ strong { color: var(--ink); }
 }
 
 .service-year {
-    flex: 0 0 55px;
+    flex: 0 0 48px;
     font-family: var(--font-sub);
     font-size: 0.74rem;
     font-weight: 600;
