@@ -9,14 +9,14 @@ const USER_CONFIG = {
   authorName: "Yile Chen",
   initials:   "YC",
 
-  role:       "PhD @ SCUT",
+  role:       "Postdoc @ NUS",
 
   department: "School / Department Name",
   university: "South China University of Technology",
 
-  email:      "jireh.y.chen@gmail.com",
+  email:      "yilechen@nus.edu.sg",
 
-  bio:        "I am a PhD graduate from South China University of Technology (SCUT) and a Research Assistant at HKUST-GZ. My research spans **Automated Machine Learning (AutoML)**, **LLM Systems**, and **AI Agents**. I expect to join the National University of Singapore (NUS) as a postdoctoral researcher, where I will focus on **Agentic AI Safety**.",
+  bio:        "I am a Postdoctoral Research Fellow at the National University of Singapore (NUS), having received my PhD from South China University of Technology (SCUT). My research spans **Automated Machine Learning (AutoML)**, **LLM Systems**, and **AI Agents**, with a current focus on **Agentic AI Safety**.",
 
   intro:      "*With humility, gentleness, patience, and love for one another.*",
   //"*With humility, gentleness, and patience, treating one another with love.*",
