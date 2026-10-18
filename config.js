@@ -141,6 +141,8 @@ const USER_CONFIG = {
 
   // ── News ────────────────────────────────────────────
   news: [
+    { date: "2026.10", badge: "MILESTONE", text: "Started Postdoc at NUS!!!",
+      detail: 'I joined the **National University of Singapore (NUS)** as a **Postdoctoral Research Fellow**!',},
     { date: "2026.08", badge: "New",       text: "Paper accepted at ICDM 2026!",
       detail: 'Our paper **"Mining Input-Inherent Context: A Parameter-Free Kernel Attention Mechanism for CNNs"** was accepted by **ICDM 2026**!'},
     { date: "2026.06", badge: "MILESTONE", text: "Awarded PhD degree!!!",
