@@ -347,6 +347,34 @@ function populateLists(cfg) {
   }
 
 
+  // ── Academic Services ─────────────────────────────
+  const services = document.getElementById('cfg-services');
+
+  if (services && cfg.services?.length) {
+    services.innerHTML = [...cfg.services]
+      .sort((a, b) => b.year - a.year)
+      .map(group => `
+        <div class="service-entry">
+          <span class="service-year">${group.year}</span>
+
+          <div class="service-list">
+            ${group.reviews.map(review => `
+              <span class="service-item">
+                ${review.venue}
+                ${review.award
+                  ? `<span class="service-honor">(${review.award})</span>`
+                  : ''}
+                ${review.note
+                  ? `<span class="service-note">(${review.note})</span>`
+                  : ''}
+              </span>
+            `).join(', ')}
+          </div>
+        </div>
+      `).join('');
+  }
+
+
   const photoStrip = document.getElementById('cfg-photos');
   const photosSection = document.getElementById('photosSection');
 

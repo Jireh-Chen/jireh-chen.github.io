@@ -171,6 +171,19 @@ const USER_CONFIG = {
   ],
 
 
+  // ── Services ──────────────────────────────────────
+  services: [
+    { year: 2026,
+      reviews: [
+        { venue: "NeurIPS", award: "Top Reviewer" },
+        { venue: "ICDM", note: "Teen Research Track" },
+        { venue: "ICLR" }
+      ]
+    }
+  ],
+
+
+
   // ── Photos ──────────────────────────────────────
 
   photos: [

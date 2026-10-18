@@ -816,6 +816,43 @@ strong { color: var(--ink); }
     color: var(--ink-dim);
 }
 
+/* ---- Services ---- */
+.service-honor {
+    color: var(--red);
+    font-weight: 700;
+}
+
+.service-note {
+    color: var(--ink-muted);
+    font-weight: 400;
+}
+
+.service-entry {
+    display: grid;
+    grid-template-columns: 110px minmax(0, 1fr);
+    gap: 16px;
+    align-items: baseline;
+    padding: 9px 0;
+    border-bottom: 1px dotted var(--rule-light);
+}
+
+.service-entry:last-child {
+    border-bottom: none;
+}
+
+.service-year {
+    font-family: var(--font-sub);
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: var(--ink-muted);
+}
+
+.service-list {
+    font-size: 0.86rem;
+    color: var(--ink);
+    line-height: 1.6;
+}
+
 /* ---- Letters (Contact) ---- */
 
 .letters-box {
