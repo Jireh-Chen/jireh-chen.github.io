@@ -817,21 +817,10 @@ strong { color: var(--ink); }
 }
 
 /* ---- Services ---- */
-.service-honor {
-    color: var(--red);
-    font-weight: 700;
-}
-
-.service-note {
-    color: var(--ink-muted);
-    font-weight: 400;
-}
-
 .service-entry {
-    display: grid;
-    grid-template-columns: 110px minmax(0, 1fr);
-    gap: 12px;
+    display: flex;
     align-items: baseline;
+    gap: 24px;
     padding: 9px 0;
     border-bottom: 1px dotted var(--rule-light);
 }
@@ -841,6 +830,7 @@ strong { color: var(--ink); }
 }
 
 .service-year {
+    flex: 0 0 55px;
     font-family: var(--font-sub);
     font-size: 0.74rem;
     font-weight: 600;
@@ -848,9 +838,22 @@ strong { color: var(--ink); }
 }
 
 .service-list {
+    flex: 1;
+    min-width: 0;
+    display: block;
     font-size: 0.86rem;
     color: var(--ink);
     line-height: 1.6;
+}
+
+.service-honor {
+    color: var(--red);
+    font-weight: 700;
+}
+
+.service-note {
+    color: var(--ink-muted);
+    font-weight: 400;
 }
 
 /* ---- Letters (Contact) ---- */
