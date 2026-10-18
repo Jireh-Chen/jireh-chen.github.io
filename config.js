@@ -164,7 +164,8 @@ const USER_CONFIG = {
 
   // ── Experience ──────────────────────────────────────
   experience: [
-    { period: "2023.06–Present", role: "Visiting Student & Research Assistant", institution: "Hong Kong Universifty of Science and Technology (Guangzhou)" },
+    {period: "2026.10–Present", role: "Postdoctoral Research Fellow", institution: "National University of Singapore" },
+    { period: "2023.06–2026.09", role: "Visiting Student & Research Assistant", institution: "Hong Kong Universifty of Science and Technology (Guangzhou)" },
   ],
 
 
