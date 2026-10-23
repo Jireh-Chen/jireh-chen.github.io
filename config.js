@@ -177,7 +177,8 @@ const USER_CONFIG = {
       reviews: [
         { venue: "NeurIPS", award: "Top Reviewer" },
         { venue: "ICDM", note: "Teen Research Track" },
-        { venue: "ICLR" }
+        { venue: "ICLR" },
+        { venue: "JMLR", note: "MLOSS" },
       ]
     }
   ],
