@@ -188,6 +188,9 @@ const USER_CONFIG = {
   // ── Photos ──────────────────────────────────────
 
   photos: [
+    { src: "assets/photos/260917-HKUSTGZ-Dinner.jpg",
+      caption: "Graduation dinner with Prof. Wen · HKUST-GZ",
+      date: "2026.09" },
     { src: "assets/photos/260713-Jiangmen-friends.jpg",
       caption: "Hiking with friends · Xianyu Lake, Jiangmen",
       date: "2026.07" },
