@@ -179,6 +179,7 @@ const USER_CONFIG = {
         { venue: "ICDM", note: "Teen Research Track" },
         { venue: "ICLR" },
         { venue: "JMLR", note: "MLOSS" },
+        { venue: "WWW" },
       ]
     }
   ],
