@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-11-14",
+  "passed": true,
+  "checks": {
+    "records": 232,
+    "uniqueIds": 232,
+    "validSourceUrls": 232,
+    "findings": 8,
+    "findingLinksChecked": 7
+  },
+  "errors": []
+}

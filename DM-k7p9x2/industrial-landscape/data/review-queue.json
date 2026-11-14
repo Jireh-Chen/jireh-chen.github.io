@@ -1,0 +1,1821 @@
+{
+  "generatedAt": "2026-11-14",
+  "items": [
+    {
+      "id": "DM-001",
+      "company": "Visa",
+      "product": "Visa A2A Protect",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://corporate.visa.com/en/sites/visa-perspectives/press-releases/enhanced-a2a-protect.html"
+    },
+    {
+      "id": "DM-002",
+      "company": "Mastercard",
+      "product": "Decision Intelligence Pro",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.mastercard.com/sea/en/news-and-trends/press/2024/february/mastercard-supercharges-consumer-protection-with-gen-ai.html"
+    },
+    {
+      "id": "DM-003",
+      "company": "Stripe",
+      "product": "Radar",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://stripe.com/blog/radar-2018"
+    },
+    {
+      "id": "DM-004",
+      "company": "Feedzai",
+      "product": "Feedzai AI Fraud Prevention",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.feedzai.com/solutions/ai/"
+    },
+    {
+      "id": "DM-005",
+      "company": "Hawk",
+      "product": "AML Transaction Monitoring",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://hawk.ai/solutions/aml/transaction-monitoring"
+    },
+    {
+      "id": "DM-006",
+      "company": "Socure",
+      "product": "Sigma Identity Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://help.socure.com/riskos/docs/sigma-identity-fraud"
+    },
+    {
+      "id": "DM-007",
+      "company": "Alloy",
+      "product": "Orchestration & Decisioning Engine",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.alloy.com/orchestration-decisioning-engine"
+    },
+    {
+      "id": "DM-008",
+      "company": "Forter",
+      "product": "Fraud Management",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.forter.com/platform/fraud-management/"
+    },
+    {
+      "id": "DM-009",
+      "company": "Riskified",
+      "product": "Riskified Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.riskified.com/platform-riskified/"
+    },
+    {
+      "id": "DM-010",
+      "company": "Cloudflare",
+      "product": "WAF Attack Score",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.cloudflare.com/waf/detections/attack-score/"
+    },
+    {
+      "id": "DM-011",
+      "company": "Cloudflare",
+      "product": "Bot Management",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.cloudflare.com/bots/reference/machine-learning-models/"
+    },
+    {
+      "id": "DM-012",
+      "company": "OpenAI",
+      "product": "Moderation API",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.openai.com/api/docs/guides/moderation"
+    },
+    {
+      "id": "DM-013",
+      "company": "Google Cloud",
+      "product": "Model Armor",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://docs.cloud.google.com/model-armor/version-history"
+    },
+    {
+      "id": "DM-014",
+      "company": "Palo Alto Networks",
+      "product": "Prisma AIRS AI Runtime",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://docs.paloaltonetworks.com/prisma-airs/getting-started/prisma-airs-overview"
+    },
+    {
+      "id": "DM-015",
+      "company": "Palo Alto Networks",
+      "product": "Prisma AIRS Agent Security",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.paloaltonetworks.com/resources/datasheets/prisma-airs-ai-agent-security"
+    },
+    {
+      "id": "DM-016",
+      "company": "Zendesk",
+      "product": "Intelligent Triage",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://support.zendesk.com/hc/en-us/articles/4550640560538-Automatically-classifying-tickets-with-intelligent-triage"
+    },
+    {
+      "id": "DM-017",
+      "company": "Amazon Web Services",
+      "product": "Amazon Comprehend Medical",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://docs.aws.amazon.com/comprehend-medical/latest/dev/"
+    },
+    {
+      "id": "DM-018",
+      "company": "Siemens Healthineers",
+      "product": "AI-Rad Companion Chest CT",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.siemens-healthineers.com/en-sg/digital-health-solutions/digital-solutions-overview/clinical-decision-support/ai-rad-companion/chest-ct"
+    },
+    {
+      "id": "DM-019",
+      "company": "Siemens Healthineers",
+      "product": "AI-Rad Companion Chest X-ray",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.siemens-healthineers.com/en-sg/digital-health-solutions/digital-solutions-overview/clinical-decision-support/ai-rad-companion/chest-xray"
+    },
+    {
+      "id": "DM-020",
+      "company": "Medtronic",
+      "product": "GI Genius",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.medtronic.com/en-us/healthcare-professionals/products/digestive-gastrointestinal/gastrointestinal-artificial-intelligence/gi-genius-intelligent-endoscopy-module.html?sheet=open"
+    },
+    {
+      "id": "DM-021",
+      "company": "Medtronic",
+      "product": "ColonPRO",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://news.medtronic.com/Medtronic-announces-CE-Mark-for-the-next-generation-GI-Genius-TM-module-and-ColonPRO-TM-software"
+    },
+    {
+      "id": "DM-022",
+      "company": "GE HealthCare",
+      "product": "Critical Care Suite 2.1",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.gehealthcare.com/en/about/newsroom/press-releases/ge-healthcare-expands-on-device-triage-capabilities-with-fda-clearance-of-algorithm-for-pneumothorax-detection-notification-triage-and-diagnosis"
+    },
+    {
+      "id": "DM-023",
+      "company": "Aidoc",
+      "product": "Aidoc Radiology AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/solutions/radiology/"
+    },
+    {
+      "id": "DM-024",
+      "company": "Viz.ai",
+      "product": "Viz.ai One",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.viz.ai/"
+    },
+    {
+      "id": "DM-025",
+      "company": "Viz.ai",
+      "product": "Viz.ai Stroke",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.viz.ai/news/viz-ai-study-demonstrates-44-reduction-in-interfacility-stroke-transfer-times"
+    },
+    {
+      "id": "DM-026",
+      "company": "Qure.ai",
+      "product": "qXR",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.qure.ai/product/qxr"
+    },
+    {
+      "id": "DM-027",
+      "company": "Lunit",
+      "product": "Lunit INSIGHT CXR",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.lunit.io/en/ai-radiology-software/insight-cxr/"
+    },
+    {
+      "id": "DM-028",
+      "company": "Eko Health",
+      "product": "EFAST Cardiac AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.ekohealth.com/pages/efast-cardiac-ai-model"
+    },
+    {
+      "id": "DM-029",
+      "company": "Eko Health",
+      "product": "SENSORA",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.ekohealth.com/pages/sensora"
+    },
+    {
+      "id": "DM-030",
+      "company": "Cleerly",
+      "product": "Cleerly LABS / PLAQUE",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://cleerly.com/press/fda-clearance-cleerly-labs"
+    },
+    {
+      "id": "DM-031",
+      "company": "Duke Health",
+      "product": "Sepsis Watch",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://dihi.org/project/detection-and-treatment-of-patient-deterioration/"
+    },
+    {
+      "id": "DM-032",
+      "company": "Siemens Healthineers",
+      "product": "ARTIS genio floor",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://desk.sh.gov.cn/pdfpt/gzdt/20261103/de0d14629ab24218b25b76ad24ab6fa4.html"
+    },
+    {
+      "id": "DM-033",
+      "company": "Medtronic",
+      "product": "Aortic intervention AI planning system",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://m.cnpharm.com/c/2026-11-09/1110227.shtml"
+    },
+    {
+      "id": "DM-034",
+      "company": "GE HealthCare",
+      "product": "SonoHive + LOGIQ Vita",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://m.cnpharm.com/c/2026-11-09/1110227.shtml"
+    },
+    {
+      "id": "DM-035",
+      "company": "Philips",
+      "product": "Azurion Butterfly",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://m.cnpharm.com/c/2026-11-09/1110227.shtml"
+    },
+    {
+      "id": "DM-036",
+      "company": "Boston Scientific",
+      "product": "AVVIGO+",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://m.cnpharm.com/c/2026-11-09/1110227.shtml"
+    },
+    {
+      "id": "DM-037",
+      "company": "Siemens",
+      "product": "Senseye Predictive Maintenance",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://cache.industry.siemens.com/dl/files/319/109955319/att_1350959/v1/109955319_Senseye-product-sheet-V1.6_Nov25-2.pdf"
+    },
+    {
+      "id": "DM-038",
+      "company": "Siemens / BlueScope Steel",
+      "product": "Senseye Predictive Maintenance + GenAI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://news.siemens.com/en-us/siemens-elevates-predictive-maintenance-with-innovative-generative-ai/"
+    },
+    {
+      "id": "DM-039",
+      "company": "Siemens / Automotive manufacturer",
+      "product": "Senseye Predictive Maintenance deployment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://references.siemens.com/en/reference/33433?id=33433"
+    },
+    {
+      "id": "DM-040",
+      "company": "IBM",
+      "product": "Maximo Predict",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.ibm.com/docs/en/masv-and-l/cd?topic=applications-maximo-predict"
+    },
+    {
+      "id": "DM-041",
+      "company": "IBM",
+      "product": "Maximo Predictive Maintenance Insights",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.ibm.com/docs/en/ma-pmis?topic=product-overview"
+    },
+    {
+      "id": "DM-042",
+      "company": "Tractable",
+      "product": "Tractable AI Damage Assessment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://tractable.ai/"
+    },
+    {
+      "id": "DM-043",
+      "company": "Foyer Assurances / Tractable",
+      "product": "Motor Claims AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://tractable.ai/foyer-and-tractable/"
+    },
+    {
+      "id": "DM-044",
+      "company": "Shift Technology",
+      "product": "Shift Claims Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.shift-technology.com/solutions/fraud-risk"
+    },
+    {
+      "id": "DM-045",
+      "company": "Cytora",
+      "product": "Risk Digitization Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://cytora.com/"
+    },
+    {
+      "id": "DM-046",
+      "company": "CCC Intelligent Solutions",
+      "product": "CCC Estimating",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.cccis.com/insurance-carriers/apd/claims-estimating"
+    },
+    {
+      "id": "DM-047",
+      "company": "Amazon Web Services",
+      "product": "Amazon Fraud Detector",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/tw/blogs/aws/amazon-fraud-detector-is-now-generally-available/"
+    },
+    {
+      "id": "DM-048",
+      "company": "AWS",
+      "product": "SageMaker Clarify",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/sagemaker/ai/clarify/"
+    },
+    {
+      "id": "DM-049",
+      "company": "Tempus AI",
+      "product": "Tempus Next",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tempus.com/news/pr/tempus-expands-next-platform-to-deliver-real-time-clinical-intelligence-and-close-critical-care-gaps-across-oncology/"
+    },
+    {
+      "id": "DM-050",
+      "company": "Aidoc",
+      "product": "Complete AI Stroke Package",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/about/news/ai-saving-brain-fda-clears-aidocs-complete-ai-stroke-package/"
+    },
+    {
+      "id": "DM-051",
+      "company": "Aidoc / Isala",
+      "product": "Aidoc aiOS",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/about/news/isala-aidoc-ai-partnership/"
+    },
+    {
+      "id": "DM-052",
+      "company": "Aidoc / Everlight Radiology",
+      "product": "C-Spine Fracture AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/about/news/everlight-radiology-ai-cspine/"
+    },
+    {
+      "id": "DM-053",
+      "company": "Aidoc",
+      "product": "aiOS",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/about/news/aidoc-releases-first-ai-os-for-hospital-ai-orchestration/"
+    },
+    {
+      "id": "DM-054",
+      "company": "Butterfly Network",
+      "product": "Auto B-line Counter",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.butterflynetwork.com/press-releases/fda-clearance-butterfly-auto-b-lines-ai-tool"
+    },
+    {
+      "id": "DM-055",
+      "company": "Viz.ai",
+      "product": "Viz Pulmonary Suite",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.viz.ai/news/viz-ai-launches-viz-pulmonary-suite"
+    },
+    {
+      "id": "DM-056",
+      "company": "Viz.ai",
+      "product": "Viz PE Solution",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.viz.ai/vascular"
+    },
+    {
+      "id": "DM-057",
+      "company": "Upstart",
+      "product": "AI-powered lending",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.upstart.com/learn/how-upstart-works/"
+    },
+    {
+      "id": "DM-058",
+      "company": "Featurespace / Eika",
+      "product": "ARIC Risk Hub",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.featurespace.com/wp-content/uploads/2025/04/Eika-CaseStudy-Mar2025-2.pdf"
+    },
+    {
+      "id": "DM-059",
+      "company": "Featurespace / First Tech FCU",
+      "product": "ARIC Risk Hub",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.featurespace.com/wp-content/uploads/2025/04/FirstTechCU-HeroStory_Feb25-v8.pdf"
+    },
+    {
+      "id": "DM-060",
+      "company": "Featurespace",
+      "product": "ARIC Application Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www2.featurespace.com/solutions/application-fraud-prevention/"
+    },
+    {
+      "id": "DM-061",
+      "company": "Chainalysis",
+      "product": "KYT",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.chainalysis.com/product/kyt/"
+    },
+    {
+      "id": "DM-062",
+      "company": "Quantexa / HSBC",
+      "product": "Decision Intelligence Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.quantexa.com/assets/x/8c356eaeb4/hsbc-case-study-kai-yang-technology.pdf"
+    },
+    {
+      "id": "DM-063",
+      "company": "Quantexa / Standard Chartered",
+      "product": "Decision Intelligence Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.quantexa.com/press/standard-chartered-and-quantexa/"
+    },
+    {
+      "id": "DM-064",
+      "company": "Quantexa / UK Insolvency Service",
+      "product": "Decision Intelligence Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.quantexa.com/press/quantexa-selected-by-the-insolvency-service-to-build-a-sovereign-data-and-ai-foundation-to-fight-economic-crime/"
+    },
+    {
+      "id": "DM-065",
+      "company": "Shift Technology",
+      "product": "Shift Claims Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.shift-technology.com/resources/case-studies/ai-in-action-property-unstructured-data"
+    },
+    {
+      "id": "DM-066",
+      "company": "Shift Technology",
+      "product": "Shift Claims Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.shift-technology.com/resources/case-studies/ai-for-insurance-in-action-switched-identity-unmasked"
+    },
+    {
+      "id": "DM-067",
+      "company": "Shift Technology",
+      "product": "Document Fraud Detection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.shift-technology.com/resources/case-studies/uncovering-reused-photo-fraud"
+    },
+    {
+      "id": "DM-068",
+      "company": "Shift Technology",
+      "product": "Fraud Waste and Abuse Detection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.shift-technology.com/en-gb/resources/case-studies/real-time-detection-of-fraud-waste-and-abuse-by-a-pan-asian-insurer"
+    },
+    {
+      "id": "DM-069",
+      "company": "Earnix / Definity",
+      "product": "Earnix Price-It",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://earnix.com/newsroom/press-releases/definity-selects-earnix-ai-driven-pricing/"
+    },
+    {
+      "id": "DM-070",
+      "company": "hyperexponential / Aviva",
+      "product": "hx Renew",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.hyperexponential.com/newsroom/aviva-fast-tracks-pricing"
+    },
+    {
+      "id": "DM-071",
+      "company": "CCC Intelligent Solutions / Crash Champions",
+      "product": "Mobile Jumpstart 2.0",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.cccis.com/news-and-insights/posts/crash-champions-empowers-team-members-with-ai-and-tools-from-ccc"
+    },
+    {
+      "id": "DM-072",
+      "company": "CCC Intelligent Solutions",
+      "product": "CCC AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.cccis.com/our-technology/ai"
+    },
+    {
+      "id": "DM-073",
+      "company": "LexisNexis Risk Solutions / IMS",
+      "product": "Drive Metrics / EdgeSDK",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://risk.lexisnexis.com/about-us/press-room/press-release/20260924-ims-edgesdk"
+    },
+    {
+      "id": "DM-074",
+      "company": "ABB",
+      "product": "ABB Ability Predictive Intelligence",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.abb.com/global/en/areas/motion/services/asset-health-and-monitoring/abb-ability-predictive-intelligence-for-powertrains"
+    },
+    {
+      "id": "DM-075",
+      "company": "ABB",
+      "product": "ABB Ability LEAP",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.abb.com/global/en/areas/motion/services/asset-health-and-monitoring"
+    },
+    {
+      "id": "DM-076",
+      "company": "Siemens / Sachsenmilch",
+      "product": "Senseye Predictive Maintenance",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.siemens.com/en-us/products/industrial-digitalization-services/senseye-predictive-maintenance/"
+    },
+    {
+      "id": "DM-077",
+      "company": "GE Vernova / Cosmo Oil",
+      "product": "SmartSignal Predictive Analytics",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.gevernova.com/software/customer-stories/cosmo-oil-operational-excellence-apm-software"
+    },
+    {
+      "id": "DM-078",
+      "company": "Shopify",
+      "product": "Fraud Analysis",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://help.shopify.com/en/manual/fulfillment/managing-orders/protecting-orders/fraud-analysis"
+    },
+    {
+      "id": "DM-079",
+      "company": "RELEX / Dollar General",
+      "product": "RELEX Forecasting and Replenishment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/relex-solutions-announces-partnership-with-dollar-general-for-forecasting-and-replenishment/"
+    },
+    {
+      "id": "DM-080",
+      "company": "RELEX / Biyoute",
+      "product": "RELEX Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/resources/case-study-biyoute-trading-co-ltd/"
+    },
+    {
+      "id": "DM-081",
+      "company": "RELEX / Amart Furniture",
+      "product": "RELEX Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/amart-furniture-to-overhaul-forecasting-and-replenishment-with-relex/"
+    },
+    {
+      "id": "DM-082",
+      "company": "RELEX / One Stop",
+      "product": "RELEX Forecasting",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/resources/case-one-stop/"
+    },
+    {
+      "id": "DM-083",
+      "company": "Blue Yonder / OBI Group",
+      "product": "Blue Yonder Demand Planning",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/2026-obi-blue-yonder"
+    },
+    {
+      "id": "DM-084",
+      "company": "Afresh",
+      "product": "Afresh AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.afresh.com/departments/produce"
+    },
+    {
+      "id": "DM-085",
+      "company": "Afresh / Retailer Pilot",
+      "product": "Afresh Ordering",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.afresh.com/resources/guides/using-artificial-intelligence-to-reduce-food-waste-in-grocery-retail-pcfwc-case-study"
+    },
+    {
+      "id": "DM-086",
+      "company": "Braze",
+      "product": "Decisioning Studio Go",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.braze.com/press-releases/braze-accelerates-ai-innovation-empowering-marketers-to-treat-every-customer-like-their-only-customer"
+    },
+    {
+      "id": "DM-087",
+      "company": "Amazon Science",
+      "product": "Anchored FLoE",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.amazon.science/publications/anchored-floe-a-business-guardrailed-ensemble-framework-of-foundation-and-local-trained-models-for-demand-forecasting"
+    },
+    {
+      "id": "DM-088",
+      "company": "project44",
+      "product": "AI Ocean Exceptions Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.project44.com/press-releases/project44-launches-ai-ocean-exceptions-agent-to-autonomously-resolve-rolled-container-disruptions/"
+    },
+    {
+      "id": "DM-089",
+      "company": "UPS",
+      "product": "ORION / UPSNav",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://about.ups.com/sg/en/newsroom/press-releases/innovation-driven/ups-deploys-purpose-built-navigation-for-ups-service-personnel.html"
+    },
+    {
+      "id": "DM-090",
+      "company": "DHL Express",
+      "product": "AI Last-Mile Planning",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.dhl.com/discover/en-sg/ship-with-dhl/start-shipping/ai-enhanced-last-mile-delivery-future-of-ecommerce"
+    },
+    {
+      "id": "DM-091",
+      "company": "Google Maps Platform",
+      "product": "Routes API",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.google.com/maps/documentation/routes/config_trade_offs"
+    },
+    {
+      "id": "DM-092",
+      "company": "Tesla",
+      "product": "Autobidder",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tesla.com/en_sg/support/energy/tesla-software/autobidder"
+    },
+    {
+      "id": "DM-093",
+      "company": "Tesla",
+      "product": "Opticaster / Autonomous Control",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tesla.com/en_sg/support/energy/tesla-software"
+    },
+    {
+      "id": "DM-094",
+      "company": "Enel X / Samsung SDS",
+      "product": "Demand Response",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.enelx.com/kr/en/resources/enel-x-samsung-sds-demand-response"
+    },
+    {
+      "id": "DM-095",
+      "company": "Okta",
+      "product": "Identity Threat Protection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.okta.com/en-in/newsroom/press-releases/okta-launches-identity-threat-protection-with-okta-ai-for-real-time/"
+    },
+    {
+      "id": "DM-096",
+      "company": "Microsoft",
+      "product": "Defender for Cloud Apps",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://learn.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy"
+    },
+    {
+      "id": "DM-097",
+      "company": "Microsoft",
+      "product": "Defender Cloud App Catalog",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://learn.microsoft.com/en-us/defender-cloud-apps/risk-score"
+    },
+    {
+      "id": "DM-098",
+      "company": "Cloudflare",
+      "product": "Bot Score",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.cloudflare.com/bots/reference/machine-learning-models/"
+    },
+    {
+      "id": "DM-099",
+      "company": "Amazon Web Services",
+      "product": "Bedrock Automated Reasoning Checks",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-automated-reasoning-checks.html"
+    },
+    {
+      "id": "DM-100",
+      "company": "Amazon Web Services",
+      "product": "Bedrock Guardrails",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails.html"
+    },
+    {
+      "id": "DM-101",
+      "company": "Amazon Web Services",
+      "product": "Bedrock Contextual Grounding",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails.html"
+    },
+    {
+      "id": "DM-102",
+      "company": "Waymo",
+      "product": "Waymo Driver",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://waymo.com/waymo-driver/"
+    },
+    {
+      "id": "DM-103",
+      "company": "Waymo",
+      "product": "Waymo Driver",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://waymo.com/waymo-driver/"
+    },
+    {
+      "id": "DM-104",
+      "company": "Mayo Clinic Platform",
+      "product": "AI-enabled Clinical Decision Support",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/mayo-clinic-platform-unveils-new-cds-tech-guide-providers-decisions"
+    },
+    {
+      "id": "DM-105",
+      "company": "Bunkerhill Health / UTMB",
+      "product": "Specialty Referral Triage Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/ai-helps-sort-specialty-referrals-scheduling-utmb"
+    },
+    {
+      "id": "DM-106",
+      "company": "Singapore General Hospital / Synapxe / Iota MedTech",
+      "product": "iScreen",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/asia/sgh-ai-cuts-brain-bleed-reporting-time"
+    },
+    {
+      "id": "DM-107",
+      "company": "Woodlands Hospital",
+      "product": "AI-assisted Endoscopy",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/asia/latest-hospital-ai-deployments-singapore-and-more-briefs"
+    },
+    {
+      "id": "DM-108",
+      "company": "Ainex / National University Hospital Singapore",
+      "product": "ENAD",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/asia/korean-ai-support-digestive-diagnosis-national-university-hospital"
+    },
+    {
+      "id": "DM-109",
+      "company": "Boston Children’s Hospital",
+      "product": "Clinical Intelligence Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/boston-childrens-enhances-care-clinical-intelligence-platform"
+    },
+    {
+      "id": "DM-110",
+      "company": "Shuang-Ho Hospital",
+      "product": "Acute Kidney Injury Risk AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/video/asia/taipei-hospital-builds-kidney-injury-risk-ai"
+    },
+    {
+      "id": "DM-111",
+      "company": "Yonsei University Severance Hospital",
+      "product": "Intelligence Emergency Activity Support Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/asia/korea-pilots-ambulance-emergency-platform-built-10-ai-models"
+    },
+    {
+      "id": "DM-112",
+      "company": "SEERS / Ajou University Hospital",
+      "product": "thynC",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.healthcareitnews.com/news/asia/ai-remote-monitoring-colonoscopy-korea-malaysia-and-more-briefs"
+    },
+    {
+      "id": "DM-113",
+      "company": "Feedzai",
+      "product": "RiskFM",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.feedzai.com/pressrelease/riskfm-ai-risk-model/"
+    },
+    {
+      "id": "DM-114",
+      "company": "TrustDecision",
+      "product": "Risk Decision Intelligence Platform + Agentic AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://trustdecision.com/news/trustdecision-expands-risk-decision-intelligence-platform-with-agentic-ai-for-southeast-asias-banks-and-fintechs"
+    },
+    {
+      "id": "DM-115",
+      "company": "Upstart",
+      "product": "Upstart Macro Index (UMI)",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://ir.upstart.com/news-releases/news-release-details/upstart-streamlines-umi-reporting"
+    },
+    {
+      "id": "DM-116",
+      "company": "Duck Creek",
+      "product": "Agentic First Notice of Loss",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.duckcreek.com/resource/press-releases/launch-agentic-ai-platform-underwriting-claims/"
+    },
+    {
+      "id": "DM-117",
+      "company": "Duck Creek",
+      "product": "Agentic Underwriting Workbench",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.duckcreek.com/resource/press-releases/launch-agentic-ai-platform-underwriting-claims/"
+    },
+    {
+      "id": "DM-118",
+      "company": "EIP",
+      "product": "Virtual TPAi",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://eip.tech/news/press-release-3/"
+    },
+    {
+      "id": "DM-119",
+      "company": "Afresh",
+      "product": "Afresh Enterprise AI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.afresh.com/resources/press-release/afresh-expands-ai-platform-to-cover-every-item-in-stores"
+    },
+    {
+      "id": "DM-120",
+      "company": "Blue Yonder",
+      "product": "Cognitive Solutions: Allocation and Replenishment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/blue-yonders-new-agentic-ai-tackles-retail"
+    },
+    {
+      "id": "DM-121",
+      "company": "Banyan Technology",
+      "product": "Deliveries at Risk",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://banyantechnology.com/press/banyan-technology-expands-predictive-freight-intelligence-with-ai-powered-deliveries-at-risk/"
+    },
+    {
+      "id": "DM-122",
+      "company": "Geotab",
+      "product": "Predictive Collision Risk Safety Model",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.geotab.com/ai/modelCardPcrSafety/"
+    },
+    {
+      "id": "DM-123",
+      "company": "Geotab",
+      "product": "Geotab Signals First Light",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.geotab.com/blog/geotab-signals-2026-vol-2/"
+    },
+    {
+      "id": "DM-124",
+      "company": "SupPlant / IBM",
+      "product": "SupPlant Irrigation Recommendations",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.ibm.com/new/product-blog/how-ibm-helps-supplant-turn-billions-of-data-signals-into-real-time-irrigation-decisions-at-global-scale"
+    },
+    {
+      "id": "DM-125",
+      "company": "Cropin / Google Cloud",
+      "product": "OrbitAI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.cropin.com/press-release/cropin-and-google-cloud-launch-orbitai-the-worlds-first-agentic-ai-platform-for-food-and-agriculture/"
+    },
+    {
+      "id": "DM-126",
+      "company": "Agtrinsic",
+      "product": "Disease Intelligence Engine",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.agrospectrumasia.com/news/137/4538/agtrinsic-launches-ai-engine-to-predict-crop-disease-risks-before-they-escalate.html"
+    },
+    {
+      "id": "DM-127",
+      "company": "Overstory",
+      "product": "Outage Model",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.prnewswire.com/news-releases/overstory-unveils-first-ai-models-to-predict-power-outages-and-wildfires-with-tree-level-precision-302749206.html"
+    },
+    {
+      "id": "DM-128",
+      "company": "Overstory",
+      "product": "Ignition Model",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.prnewswire.com/news-releases/overstory-unveils-first-ai-models-to-predict-power-outages-and-wildfires-with-tree-level-precision-302749206.html"
+    },
+    {
+      "id": "DM-129",
+      "company": "Overstory",
+      "product": "Overstory Scenarios",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.prnewswire.com/news-releases/overstory-unveils-first-ai-models-to-predict-power-outages-and-wildfires-with-tree-level-precision-302749206.html"
+    },
+    {
+      "id": "DM-130",
+      "company": "Quantexa / PwC",
+      "product": "Supply Chain Integrity & Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.quantexa.com/press/quantexa-launches-supply-chain-integrity-fraud-solution-with-pwc-to-expose-hidden-risk-across-multi-tier-supplier-networks/"
+    },
+    {
+      "id": "DM-131",
+      "company": "Sphera",
+      "product": "AI Supply Chain Risk Management",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://sphera.com/company/news/research-by-sphera-exposes-operational-risk-gap/"
+    },
+    {
+      "id": "DM-132",
+      "company": "Exiger / Vodafone Telenor Procurement",
+      "product": "Supplier Risk Intelligence",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.prnewswire.com/news-releases/exiger-selected-to-support-supplier-risk-intelligence-for-vodafone-procure--connect-and-telenor-procurement-company-302778294.html"
+    },
+    {
+      "id": "DM-133",
+      "company": "SentinelOne",
+      "product": "Singularity Agentic Detection and Response",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.sentinelone.com/press/sentinelone-launches-singularity-agentic-detection-and-response-to-stop-rogue-and-malicious-ai-agents-at-machine-speed/"
+    },
+    {
+      "id": "DM-134",
+      "company": "ServiceNow",
+      "product": "Flow by ServiceNow",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investor.servicenow.com/news/news-details/2026/Introducing-Flow-by-ServiceNow-a-new-AI-service-desk-that-deploys-instantly/default.aspx"
+    },
+    {
+      "id": "DM-135",
+      "company": "ServiceNow",
+      "product": "ITSM Foundation",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.servicenow.com/docs/r/store-release-notes/store-rn-itsm-foundation.html"
+    },
+    {
+      "id": "DM-136",
+      "company": "Singapore GovTech",
+      "product": "Policy-grounded Data Query Proof of Concept",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tech.gov.sg/technews/getting-ai-right-how-govtech-is-making-sure-government-data-means-what-it-says/"
+    },
+    {
+      "id": "DM-137",
+      "company": "Geotab",
+      "product": "Government Fleet Safety Analytics",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.geotab.com/blog/ai-government-fleet-safety-program/"
+    },
+    {
+      "id": "DM0138",
+      "company": "Google",
+      "product": "Groundsource",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-crisis/"
+    },
+    {
+      "id": "DM0139",
+      "company": "Google",
+      "product": "Flood Hub 城市山洪预报",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
+    },
+    {
+      "id": "DM0140",
+      "company": "Google",
+      "product": "Earth AI Planetary Prediction Engine",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+    },
+    {
+      "id": "DM0141",
+      "company": "Google / UNOSAT",
+      "product": "DISHA AI Damage Assessment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/"
+    },
+    {
+      "id": "DM0142",
+      "company": "Google DeepMind",
+      "product": "WeatherNext 2 Cyclone Forecasting",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/"
+    },
+    {
+      "id": "DM0143",
+      "company": "Google / Earth Fire Alliance",
+      "product": "FireSat",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/"
+    },
+    {
+      "id": "DM0144",
+      "company": "Velera / FICO",
+      "product": "FICO Omni-Channel Engagement Fraud Alerts",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.fico.com/news-releases/news-release-details/velera-elevates-fraud-management-and-cardholder-experience-fico"
+    },
+    {
+      "id": "DM0145",
+      "company": "Yapı Kredi / FICO",
+      "product": "FICO Falcon Fraud Manager",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.fico.com/news-releases/news-release-details/yapi-kredi-cuts-fraud-98-seven-years-using-fico-ai-technology"
+    },
+    {
+      "id": "DM0146",
+      "company": "McCarthy Building Companies / Palantir",
+      "product": "RFI Classification on Foundry",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.palantir.com/news-details/2026/Palantir-Accelerates-Delivery-of-Sovereign-AI-to-New-Wave-of-Customers"
+    },
+    {
+      "id": "DM0147",
+      "company": "NVIDIA / Palantir",
+      "product": "AIP Supply Chain Operations",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.palantir.com/news-details/2026/Palantir-Accelerates-Delivery-of-Sovereign-AI-to-New-Wave-of-Customers"
+    },
+    {
+      "id": "DM0148",
+      "company": "GNP Seguros / Palantir",
+      "product": "Foundry + AIP Claims Fraud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.palantir.com/news-details/2026/Palantir-Expands-Its-Presence-in-Mexico-and-Strengthens-Its-AI-Offering-in-the-Insurance-Sector-with-GNP-Seguros"
+    },
+    {
+      "id": "DM0149",
+      "company": "GNP Seguros / Palantir",
+      "product": "Foundry + AIP Underwriting",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.palantir.com/news-details/2026/Palantir-Expands-Its-Presence-in-Mexico-and-Strengthens-Its-AI-Offering-in-the-Insurance-Sector-with-GNP-Seguros"
+    },
+    {
+      "id": "DM0150",
+      "company": "General Mills / Palantir",
+      "product": "Project ELF",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.palantir.com/assets/xrfr7uokpv1b/1aLBn65y83vdytjpXJKZcO/16989b788b34cb677f6d763d56a72349/Building_an_Intelligent_AI-Driven_Supply_Chain_at_General_Mills_-_AIPCon_March_-24_Impact_Study.pdf"
+    },
+    {
+      "id": "DM0151",
+      "company": "Coinbase / Databricks",
+      "product": "Real-Time ML Fraud Features",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.databricks.com/customers/coinbase/lakeflow"
+    },
+    {
+      "id": "DM0152",
+      "company": "Databricks",
+      "product": "Real-Time Fraud Detection Accelerator",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.databricks.com/blog/how-build-real-time-fraud-detection-using-spark-real-time-mode-and-lakebase"
+    },
+    {
+      "id": "DM0153",
+      "company": "Databricks",
+      "product": "Telecom Fraud Prevention Accelerator",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform"
+    },
+    {
+      "id": "DM0154",
+      "company": "Workday / AWS",
+      "product": "AWS FinOps Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-finops-agent-is-now-public-preview/"
+    },
+    {
+      "id": "DM0155",
+      "company": "Waymo",
+      "product": "Waymo Driver 6th Generation",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver/"
+    },
+    {
+      "id": "DM0156",
+      "company": "MC / Blue Yonder",
+      "product": "Cognitive Allocation and Replenishment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/mc-advances-supply-chain-transformation-with-blue-yonder-cognitive-solutions"
+    },
+    {
+      "id": "DM0157",
+      "company": "Procter & Gamble / Siemens",
+      "product": "Visual Inspection Cockpit",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://press.siemens.com/global/en/pressrelease/siemens-and-procter-gamble-scale-ai-based-quality-inspection-across-global-production"
+    },
+    {
+      "id": "DM0158",
+      "company": "John Deere",
+      "product": "See & Spray Gen 2",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://edge.machinefinderpro.deere.com/ww/en-US/articles/john-deere-enhances-see--spray-technology-13812"
+    },
+    {
+      "id": "DM0159",
+      "company": "Aidoc",
+      "product": "CARE Body CT Multi-Triage",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/about/news/aidocs-care-body-ct-multi-triage-receives-eligibility-for-medicare-new-technology-add-on-payment/"
+    },
+    {
+      "id": "DM0160",
+      "company": "Aidoc",
+      "product": "First Read Chest X-Ray",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.aidoc.com/about/news/aidoc-receives-fda-breakthrough-device-designation-for-ai-that-drafts-radiology-reports/"
+    },
+    {
+      "id": "DM0161",
+      "company": "Siemens",
+      "product": "Predictive Maintenance for Semiconductor Fabs",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blogs.sw.siemens.com/electronics-semiconductors/2026/08/13/ai-driven-predictive-maintenance-solving-semiconductor-fab-uptime-challenges/"
+    },
+    {
+      "id": "DM0162",
+      "company": "CrowdStrike",
+      "product": "Continuous Identity for AI Agents",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-unveils-continuous-identity-ai-agents"
+    },
+    {
+      "id": "DM0163",
+      "company": "CrowdStrike",
+      "product": "Agentic Identity Provider",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://ir.crowdstrike.com/news-releases/news-release-details/introducing-crowdstrike-agentic-identity-provider-foundation-ai"
+    },
+    {
+      "id": "DM0164",
+      "company": "Fortinet",
+      "product": "FortiNDR Cloud",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.fortinet.com/blog/security-operations/battling-ai-based-threats-with-fortindr"
+    },
+    {
+      "id": "DM0165",
+      "company": "Fortinet",
+      "product": "FortiAIGate",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.fortinet.com/blog/secure-networking/extending-network-security-to-ai-applications-with-fortiaigate"
+    },
+    {
+      "id": "DM0166",
+      "company": "Darktrace",
+      "product": "Antigena Autonomous Response for Rogue Agents",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.darktrace.com/blog/detecting-rogue-agent-behavior-in-the-enterprise"
+    },
+    {
+      "id": "DM0167",
+      "company": "Nemlig.com / RELEX",
+      "product": "RELEX Forecasting Replenishment Markdown",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/nemlig-reduces-food-waste-by-51-with-relex/"
+    },
+    {
+      "id": "DM0168",
+      "company": "Hy-Vee / RELEX",
+      "product": "RELEX Fresh Store Ordering",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/hy-vee-chooses-relex-to-further-strengthen-product-availability-and-freshness-across-its-stores/"
+    },
+    {
+      "id": "DM0169",
+      "company": "Marks & Spencer Food / RELEX",
+      "product": "RELEX Forecasting and Replenishment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/relex-partners-with-ms-food/"
+    },
+    {
+      "id": "DM0170",
+      "company": "Krónan / RELEX",
+      "product": "RELEX Store and DC Planning",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/kronan-unifies-store-and-distribution-planning-with-relex/"
+    },
+    {
+      "id": "DM0171",
+      "company": "One Stop / RELEX",
+      "product": "RELEX Expiration and Markdown Optimization",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.relexsolutions.com/news/one-stop-unifies-store-execution-with-one-ai-orchestrated-system-from-relex/"
+    },
+    {
+      "id": "DM0172",
+      "company": "TOMRA",
+      "product": "GAINnext PET Tray Classification",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tomra.com/waste-metal-recycling/media-center/news/2026/tomra-launches-next-generation-ai-platform-and-expands-gainnext-ecosystem"
+    },
+    {
+      "id": "DM0173",
+      "company": "TOMRA",
+      "product": "GAINnext Copper Composite Sorting",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tomra.com/waste-metal-recycling/media-center/news/2026/tomra-launches-next-generation-ai-platform-and-expands-gainnext-ecosystem"
+    },
+    {
+      "id": "DM0174",
+      "company": "TOMRA / PolyPerception",
+      "product": "PolyPerception Waste Analyzer Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.tomra.com/waste-metal-recycling/media-center/news/2026/tomra-launches-next-generation-ai-platform-and-expands-gainnext-ecosystem"
+    },
+    {
+      "id": "DM0175",
+      "company": "Procore / NVIDIA",
+      "product": "Digital Twin Risk Simulation",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.procore.com/press/procore-collaborates-with-nvidia-to-deliver-advanced-digital-twin-capabilities-to-predict-and-minimize-risks-for-megaprojects"
+    },
+    {
+      "id": "DM0176",
+      "company": "Transport for NSW",
+      "product": "DRL Adaptive Traffic Signal Research",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.transport.nsw.gov.au/system/files/media/documents/2025/integrated-connected-data-for-safer-final-report-august-2025.pdf"
+    },
+    {
+      "id": "DM0177",
+      "company": "NEA Singapore",
+      "product": "Automated Mosquito Species Identification RFI",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.nea.gov.sg/docs/default-source/air-quality/rfi-on-automated-mosquito-identification-technologies-pdf.pdf"
+    },
+    {
+      "id": "DM-178",
+      "company": "Blue Yonder",
+      "product": "Smart Disposition Engine",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/blue-yonder-releases-q1-2026-company-highlights"
+    },
+    {
+      "id": "DM-179",
+      "company": "Blue Yonder",
+      "product": "Fulfillment & Sourcing Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/blue-yonder-releases-q1-2026-company-highlights"
+    },
+    {
+      "id": "DM-180",
+      "company": "Blue Yonder",
+      "product": "Demand and Supply Planning Inventory Ops Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://zh.blueyonder.com/release-announcements/2026-1-release/cognitive-solutions-for-planning"
+    },
+    {
+      "id": "DM-181",
+      "company": "Blue Yonder",
+      "product": "Agentic Supplier Ordering",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://zh.blueyonder.com/release-announcements/2026-1-release/cognitive-solutions-for-planning"
+    },
+    {
+      "id": "DM-182",
+      "company": "Blue Yonder",
+      "product": "Inventory Reconstruction Service",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://de.blueyonder.com/release-announcements/2026-3-release/cognitive-solutions-for-planning"
+    },
+    {
+      "id": "DM-183",
+      "company": "Amadeus",
+      "product": "Amadeus Max for Travelers",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://amadeus.com/en/blog/articles/amadeus-max-travelers-agentic-ai-airline-support"
+    },
+    {
+      "id": "DM-184",
+      "company": "SITA / AACO",
+      "product": "WorldTracer Bag Mate",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.sita.aero/about-us/pressroom/news-releases/aaco-and-sita-come-together-to-put-ai-to-work-on-baggage-disruption-for-arab-airlines/"
+    },
+    {
+      "id": "DM-185",
+      "company": "Turnitin",
+      "product": "AI Writing Detection Model",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://guides.turnitin.com/hc/en-us/articles/28294949544717-AI-writing-detection-model"
+    },
+    {
+      "id": "DM-186",
+      "company": "Turnitin",
+      "product": "Multilingual AI Writing Detection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://guides.turnitin.com/hc/en-us/articles/27251688507533-Turnitin-release-notes"
+    },
+    {
+      "id": "DM-187",
+      "company": "Intercom",
+      "product": "Fin Escalation Rules",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.intercom.com/help/en/articles/12396892-manage-fin-ai-agent-s-escalation-guidance-and-rules"
+    },
+    {
+      "id": "DM-188",
+      "company": "Google",
+      "product": "Project Green Light / Quebec City",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/intl/en-ca/company-news/outreach-initiatives/project-green-light-how-quebec-city-is-paving-the-way-for-smarter-urban-mobility/"
+    },
+    {
+      "id": "DM-189",
+      "company": "National Healthcare Group / Lunit",
+      "product": "Lunit INSIGHT CXR Polyclinic Triage",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.jmir.org/2026/1/e103006/"
+    },
+    {
+      "id": "DM-190",
+      "company": "Google",
+      "product": "Flood Hub River Flood Forecast",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
+    },
+    {
+      "id": "DM-191",
+      "company": "Google",
+      "product": "Android Earthquake Alerts System",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/"
+    },
+    {
+      "id": "DM-192",
+      "company": "Blue Yonder / Hayleys Retail",
+      "product": "Merchandise Operations / Replenishment",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/blue-yonder-to-power-future-of-sri-lankan-retail"
+    },
+    {
+      "id": "DM-193",
+      "company": "Blue Yonder",
+      "product": "Forecasting Agent / Inventory Ops Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://de.blueyonder.com/release-announcements/2026-3-release/cognitive-solutions-for-planning"
+    },
+    {
+      "id": "DM-194",
+      "company": "Blue Yonder",
+      "product": "Transportation Disruption Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blueyonder.com/media/2026/blue-yonder-releases-q1-2026-company-highlights"
+    },
+    {
+      "id": "DM-195",
+      "company": "Google DeepMind",
+      "product": "Gemini Decisions API / Gemini Decision 1",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "DM-196",
+      "company": "Via Transportation",
+      "product": "Scheduling and Supply Studio",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://investors.ridewithvia.com/news/news-details/2026/Via-Announces-Launch-of-Scheduling-and-Supply-Studio/default.aspx"
+    },
+    {
+      "id": "DM-197",
+      "company": "FIDO Tech / Northumbrian Water",
+      "product": "FIDO Network Monitor",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://fido.tech/case-studies/northumbrian-water/"
+    },
+    {
+      "id": "DM-198",
+      "company": "PUB Singapore / Bentley Systems",
+      "product": "Smart Water Grid / ALF",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.bentley.com/en/user-stories/water-leak-detection-ai-hydraulic-modeling/"
+    },
+    {
+      "id": "DM-199",
+      "company": "Oldcastle Infrastructure",
+      "product": "CivilSense",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://oldcastleinfrastructure.com/study/civilsense-water-line-repairs/"
+    },
+    {
+      "id": "DM-200",
+      "company": "Haskoning / SES Water",
+      "product": "Aquasuite Leak Detection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.haskoning.com/en/projects/ses-water-achieves-a-reduction-in-leak-run-time"
+    },
+    {
+      "id": "DM-201",
+      "company": "Siemens Smart Infrastructure",
+      "product": "Asset Performance Advanced",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://press.siemens.com/global/en/pressrelease/siemens-launches-ai-powered-service-further-drive-autonomous-building-operations"
+    },
+    {
+      "id": "DM-202",
+      "company": "Cisco",
+      "product": "AI Defense / Agent Observability",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html"
+    },
+    {
+      "id": "DM-203",
+      "company": "IBM / SELCO",
+      "product": "watsonx AI Co-Worker",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://mea.newsroom.ibm.com/IBM-Selco-watsonx"
+    },
+    {
+      "id": "DM-204",
+      "company": "Google DeepMind",
+      "product": "AlphaGenome Atlas / AVI score",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+    },
+    {
+      "id": "DM-205",
+      "company": "FedEx",
+      "product": "FedEx Surround MI Suite",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://newsroom.fedex.com/newsroom/meisa-english/fedex-advances-smart-logistics-capabilities-in-saudi-arabia-with-launch-of-fedex-surround"
+    },
+    {
+      "id": "DM-206",
+      "company": "IBM / StarLink",
+      "product": "watsonx Orchestrate Procurement Agent",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://mea.newsroom.ibm.com/starlink-leverages-ibm-bob-and-watsonx-orchestrate"
+    },
+    {
+      "id": "DM-207",
+      "company": "IBM / Changi General Hospital",
+      "product": "Paediatric Mass Casualty Training Platform",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://asean.newsroom.ibm.com/Changi-General-Hospital-and-IBM-to-Build-the-First-AI-Powered-Paediatric-Mass-Casualty-Incident-MCI-with-IBM-watsonx-ai-and-IBM-watsonx-Orchestrate"
+    },
+    {
+      "id": "DM-208",
+      "company": "Siemens Mobility",
+      "product": "Railigent X",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://press.siemens.com/global/en/pressrelease/siemens-presents-vectron-x-and-siemens-xcelerator-portfolio-innotrans-2026"
+    },
+    {
+      "id": "DM-209",
+      "company": "Google DeepMind",
+      "product": "WeatherNext 3",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/"
+    },
+    {
+      "id": "DM-210",
+      "company": "Siemens",
+      "product": "Erlangen Factory AI Production Planner",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://press.siemens.com/global/uk/node/7477"
+    },
+    {
+      "id": "DM-211",
+      "company": "FIDO Tech / Highland Park",
+      "product": "Leak Locate",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://swan-forum.com/case-studies/ai-powered-leak-detection-in-chicago/"
+    },
+    {
+      "id": "DM-212",
+      "company": "SUEZ / South Staffs Water",
+      "product": "Satellite Leak Detection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.suez.com/en/uk/case-studies/south-staffs-water"
+    },
+    {
+      "id": "DM-213",
+      "company": "IBM",
+      "product": "Agent Identity and Control / watsonx Orchestrate",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents%2C-securing-frontier-intelligence-for-the-enterprise?lnk=hpls2us"
+    },
+    {
+      "id": "DM-214",
+      "company": "Google DeepMind / Gemini Notebook",
+      "product": "Gemini Notebook 路由",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "DM-215",
+      "company": "Google Search",
+      "product": "MCP 工具安全检查",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "DM-216",
+      "company": "Google Labs / CC",
+      "product": "CC Emoji Selection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "DM-217",
+      "company": "AWS",
+      "product": "Amazon Connect + SageMaker 实时反欺诈参考实现",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/blogs/contact-center/next-generation-insurance-claim-processing-real-time-fraud-detection-with-amazon-connect-and-amazon-sagemaker-ai/"
+    },
+    {
+      "id": "DM-218",
+      "company": "Waymo",
+      "product": "Waymo Driver 第六代",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver/"
+    },
+    {
+      "id": "DM-219",
+      "company": "Stripe",
+      "product": "Radar Free Trial Abuse Detection",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse"
+    },
+    {
+      "id": "DM-220",
+      "company": "Cloudflare",
+      "product": "Adaptive Intelligence",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://developers.cloudflare.com/changelog/post/2026-08-31-adaptive-intelligence/"
+    },
+    {
+      "id": "DM-221",
+      "company": "Google DeepMind / Google Stitch",
+      "product": "Stitch Rapid Canvas",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "DM-222",
+      "company": "Sun Finance",
+      "product": "AI Identity Verification",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/"
+    },
+    {
+      "id": "DM-223",
+      "company": "Sun Finance",
+      "product": "Fraud Detection Pipeline",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/"
+    },
+    {
+      "id": "DM-224",
+      "company": "Uber",
+      "product": "Michelangelo / ETA Prediction",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.uber.com/gb/en/blog/from-predictive-to-generative-ai/"
+    },
+    {
+      "id": "DM-225",
+      "company": "Uber",
+      "product": "Michelangelo / Matching & Risk",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://www.uber.com/gb/en/blog/from-predictive-to-generative-ai/"
+    },
+    {
+      "id": "DM-226",
+      "company": "Amazon",
+      "product": "Buyer Fraud Service",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/solutions/case-studies/amazonbuyerfraud/"
+    },
+    {
+      "id": "DM-227",
+      "company": "AWS",
+      "product": "GraphStorm v0.5 Fraud Detection Reference",
+      "priority": "needs_source_date_and_model_check",
+      "status": "Review Required",
+      "source": "https://aws.amazon.com/blogs/machine-learning/modernize-fraud-prevention-graphstorm-v0-5-for-real-time-inference/"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0",
+  "findings": [
+    {
+      "id": "CL-01",
+      "title": "产业采用率",
+      "summary": "欧盟企业AI采用率在2023到2025年显著提高",
+      "metric": "2023:8.0%;2024:13.5%;2025:20.0%",
+      "organization": "Eurostat",
+      "scope": "欧盟10人以上企业",
+      "eventTime": "2023–2025",
+      "sourceUrl": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2",
+      "evidenceNature": "官方调查；2023、2024口径应结合历年表核对",
+      "confidence": "高",
+      "limitations": "只支持总体AI需求增长，不能表述为决策小模型份额增长",
+      "findingType": "Descriptive Observation",
+      "theme": "Scalable",
+      "supportingCaseIds": [],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-02",
+      "title": "产业采用率",
+      "summary": "全球受访企业报告AI采用率较高，但Agent实际采用仍早期",
+      "metric": "2025年88%受访组织至少一职能使用AI；Agent在多数职能为个位数比例",
+      "organization": "Stanford AI Index 2026",
+      "scope": "McKinsey受访组织/按职能",
+      "eventTime": "2025",
+      "sourceUrl": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+      "evidenceNature": "二级研究汇总；样本调查",
+      "confidence": "高",
+      "limitations": "不能与Eurostat 20%并列为同一总体",
+      "findingType": "Descriptive Observation",
+      "theme": "Adaptive",
+      "supportingCaseIds": [],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-03",
+      "title": "产业投资",
+      "summary": "2025年企业AI投资规模达到较高水平",
+      "metric": "全球企业AI总投资581.69十亿美元",
+      "organization": "Stanford AI Index 2026",
+      "scope": "全球总投资，包含私人投资与并购等",
+      "eventTime": "2025",
+      "sourceUrl": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+      "evidenceNature": "投资流量；并非模型市场营收",
+      "confidence": "高",
+      "limitations": "不能视为Decision Model融资或可申请研究经费",
+      "findingType": "Descriptive Observation",
+      "theme": "Scalable",
+      "supportingCaseIds": [],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-04",
+      "title": "现实部署",
+      "summary": "大规模在线系统可能需要极高频模型预测",
+      "metric": "Uber报告平台5000+在产模型及峰值1000万次/秒预测",
+      "organization": "Uber",
+      "scope": "Michelangelo平台整体",
+      "eventTime": "2024-05",
+      "sourceUrl": "https://www.uber.com/gb/en/blog/from-predictive-to-generative-ai/",
+      "evidenceNature": "企业内部平台级指标",
+      "confidence": "中",
+      "limitations": "不能写为单个决策模型测评结果",
+      "findingType": "Descriptive Observation",
+      "theme": "Scalable",
+      "supportingCaseIds": [
+        "DM-224",
+        "DM-225"
+      ],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-05",
+      "title": "技术产品化",
+      "summary": "专用闭集Decision模型提供概率输出与多任务决策",
+      "metric": "Gemini Decision 1单请求最多1000问题；150-250ms端到端；$0.10/百万输入tokens",
+      "organization": "Google DeepMind",
+      "scope": "厂商公布API条件",
+      "eventTime": "2026-11",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "evidenceNature": "厂商定价及性能宣称",
+      "confidence": "高",
+      "limitations": "应标注测量环境；非第三方比较",
+      "findingType": "Descriptive Observation",
+      "theme": "Scalable",
+      "supportingCaseIds": [
+        "DM-228"
+      ],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-06",
+      "title": "持续适应",
+      "summary": "线上风险模型会面临随时间演化的分布变化",
+      "metric": "Cloudflare于2026年8月推出更频繁重训及shadow验证的引擎",
+      "organization": "Cloudflare",
+      "scope": "Bot Management产品更新",
+      "eventTime": "2026-08",
+      "sourceUrl": "https://developers.cloudflare.com/changelog/post/2026-08-31-adaptive-intelligence/",
+      "evidenceNature": "厂商发布日志",
+      "confidence": "高",
+      "limitations": "只代表该企业策略，不说明行业平均更新周期",
+      "findingType": "Research Hypothesis",
+      "theme": "Adaptive",
+      "supportingCaseIds": [
+        "DM-232"
+      ],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-07",
+      "title": "决策控制",
+      "summary": "生产风险评分和执行动作往往通过规则层连接",
+      "metric": "Cloudflare Bot Score 1–99，用WAF规则执行block/challenge/allow",
+      "organization": "Cloudflare",
+      "scope": "Bot Management产品手册",
+      "eventTime": "2026-08",
+      "sourceUrl": "https://developers.cloudflare.com/bots/concepts/bot-score/",
+      "evidenceNature": "官方产品文档",
+      "confidence": "高",
+      "limitations": "分数不能直接当作经校准概率",
+      "findingType": "Descriptive Observation",
+      "theme": "Reliable",
+      "supportingCaseIds": [
+        "DM-232"
+      ],
+      "reviewStatus": "V9 已核查"
+    },
+    {
+      "id": "CL-08",
+      "title": "研发趋势",
+      "summary": "模型路由与权限安全可以是独立Decision模型应用",
+      "metric": "Google报告在Notebook与Search MCP安全层使用Gemini Decision 1",
+      "organization": "Google DeepMind",
+      "scope": "内部业务产品用例",
+      "eventTime": "2026-11",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "evidenceNature": "厂商自身案例",
+      "confidence": "高",
+      "limitations": "未披露独立客户部署数",
+      "findingType": "Research Hypothesis",
+      "theme": "Generalizable",
+      "supportingCaseIds": [
+        "DM-228",
+        "DM-229"
+      ],
+      "reviewStatus": "V9 已核查"
+    }
+  ]
+}
