@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic shared encoder thumbnail</title><desc id="desc">Input tokens flow through a blue encoder block to hidden states.</desc>
+  <style>:root{color-scheme:light dark}.label{font:600 18px system-ui,sans-serif;fill:#17213b}@media(prefers-color-scheme:dark){.label{fill:#f2f5ff}}</style>
+  <rect x="60" y="45" width="200" height="90" rx="16" fill="#DCE8FF" stroke="#315EA8" stroke-width="3"/><text class="label" x="160" y="98" text-anchor="middle">Shared encoder</text>
+</svg>

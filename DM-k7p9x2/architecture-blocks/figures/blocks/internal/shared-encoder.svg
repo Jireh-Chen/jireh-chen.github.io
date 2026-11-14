@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic shared encoder internal diagram</title><desc id="desc">Tokens pass through embedding and contextual layers to hidden states.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#55627a"/></marker></defs>
+  <style>.t{font:600 18px system-ui,sans-serif;fill:#17213b}.a{stroke:#55627a;stroke-width:3;marker-end:url(#arrow)}</style>
+  <rect x="40" y="130" width="140" height="80" rx="12" fill="#E5F5EC" stroke="#377C59"/><text class="t" x="110" y="177" text-anchor="middle">Tokens</text>
+  <rect x="260" y="130" width="180" height="80" rx="12" fill="#DCE8FF" stroke="#315EA8"/><text class="t" x="350" y="177" text-anchor="middle">Embedding</text>
+  <rect x="520" y="100" width="220" height="140" rx="12" fill="#DCE8FF" stroke="#315EA8"/><text class="t" x="630" y="165" text-anchor="middle">Context layers</text><text class="t" x="630" y="192" text-anchor="middle">→ hidden states</text>
+  <line class="a" x1="180" y1="170" x2="255" y2="170"/><line class="a" x1="440" y1="170" x2="515" y2="170"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic dual-head architecture</title><desc id="desc">Context enters a shared encoder and splits into primary and auxiliary decision heads; the primary output is normalized.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#55627a"/></marker></defs>
+  <style>.t{font:600 17px system-ui,sans-serif;fill:#17213b}.a{fill:none;stroke:#55627a;stroke-width:3;marker-end:url(#arrow)}</style>
+  <rect x="40" y="205" width="150" height="90" rx="12" fill="#E5F5EC" stroke="#377C59"/><text class="t" x="115" y="257" text-anchor="middle">Context input</text>
+  <rect x="280" y="205" width="190" height="90" rx="12" fill="#DCE8FF" stroke="#315EA8"/><text class="t" x="375" y="257" text-anchor="middle">Shared encoder</text>
+  <rect x="580" y="90" width="180" height="90" rx="12" fill="#FBE4E8" stroke="#A64255"/><text class="t" x="670" y="142" text-anchor="middle">Primary head</text>
+  <rect x="580" y="320" width="180" height="90" rx="12" fill="#FBE4E8" stroke="#A64255"/><text class="t" x="670" y="372" text-anchor="middle">Auxiliary head</text>
+  <rect x="860" y="90" width="170" height="90" rx="12" fill="#F7EACB" stroke="#8A6516"/><text class="t" x="945" y="142" text-anchor="middle">Softmax</text>
+  <path class="a" d="M190 250 H275"/><path class="a" d="M470 250 C520 250 520 135 575 135"/><path class="a" d="M470 250 C520 250 520 365 575 365"/><path class="a" d="M760 135 H855"/>
+</svg>
