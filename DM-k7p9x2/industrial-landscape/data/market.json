@@ -1,0 +1,53 @@
+{
+  "adoption": {
+    "title": "欧盟企业 AI 采用率",
+    "unit": "%",
+    "source": "Eurostat",
+    "scope": "欧盟 10 人以上企业",
+    "values": [
+      {
+        "year": 2023,
+        "value": 8.0
+      },
+      {
+        "year": 2024,
+        "value": 13.5
+      },
+      {
+        "year": 2025,
+        "value": 20.0
+      }
+    ],
+    "sourceUrl": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2"
+  },
+  "signals": [
+    {
+      "type": "investment",
+      "value": "US$581.69B",
+      "label": "2025 年全球企业 AI 总投资",
+      "source": "Stanford AI Index 2026",
+      "findingId": "CL-03"
+    },
+    {
+      "type": "deployment",
+      "value": "10M/s",
+      "label": "Uber 平台峰值预测吞吐",
+      "source": "Uber, 2024",
+      "findingId": "CL-04"
+    },
+    {
+      "type": "latency",
+      "value": "150–250 ms",
+      "label": "Gemini Decision 1 厂商披露端到端延迟",
+      "source": "Google DeepMind, 2026",
+      "findingId": "CL-05"
+    },
+    {
+      "type": "pricing",
+      "value": "US$0.10",
+      "label": "每百万输入 tokens 的厂商定价",
+      "source": "Google DeepMind, 2026",
+      "findingId": "CL-05"
+    }
+  ]
+}

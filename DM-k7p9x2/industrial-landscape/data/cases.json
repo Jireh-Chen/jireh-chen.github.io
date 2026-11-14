@@ -45,7 +45,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-002",
@@ -88,7 +99,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-003",
@@ -132,7 +154,19 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-004",
@@ -176,7 +210,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-005",
@@ -220,7 +264,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-006",
@@ -264,7 +318,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-007",
@@ -307,7 +371,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-008",
@@ -350,7 +422,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-009",
@@ -394,7 +474,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-010",
@@ -437,7 +528,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-011",
@@ -480,7 +580,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-012",
@@ -524,7 +632,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-013",
@@ -567,7 +685,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-014",
@@ -610,7 +736,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-015",
@@ -653,7 +787,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-016",
@@ -696,7 +837,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "路由与分配"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-017",
@@ -739,7 +888,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-018",
@@ -782,7 +938,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-019",
@@ -825,7 +989,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-020",
@@ -869,7 +1041,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-021",
@@ -912,7 +1094,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-022",
@@ -955,7 +1144,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-023",
@@ -998,7 +1194,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-024",
@@ -1041,7 +1245,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-025",
@@ -1084,7 +1295,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-026",
@@ -1127,7 +1345,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "排序与推荐",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-027",
@@ -1170,7 +1397,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "排序与推荐",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-028",
@@ -1213,7 +1449,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-029",
@@ -1256,7 +1500,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-030",
@@ -1299,7 +1550,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-031",
@@ -1343,7 +1601,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-032",
@@ -1386,7 +1655,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-033",
@@ -1429,7 +1705,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-034",
@@ -1472,7 +1755,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-035",
@@ -1515,7 +1805,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-036",
@@ -1558,7 +1855,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-037",
@@ -1601,7 +1905,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-038",
@@ -1645,7 +1959,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-039",
@@ -1688,7 +2012,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "排序与推荐",
+        "异常检测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-040",
@@ -1731,7 +2065,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-041",
@@ -1774,7 +2117,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-042",
@@ -1818,7 +2169,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-043",
@@ -1862,7 +2222,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-044",
@@ -1905,7 +2274,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-045",
@@ -1949,7 +2326,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-046",
@@ -1992,7 +2378,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-047",
@@ -2035,7 +2429,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-048",
@@ -2078,7 +2480,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-049",
@@ -2121,7 +2531,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-050",
@@ -2164,7 +2580,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-051",
@@ -2207,7 +2630,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-052",
@@ -2250,7 +2679,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-053",
@@ -2293,7 +2729,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐",
+        "路由与分配"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-054",
@@ -2336,7 +2779,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [
+        "深度学习",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-055",
@@ -2379,7 +2831,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-056",
@@ -2422,7 +2880,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [
+        "深度学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-057",
@@ -2465,7 +2931,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-058",
@@ -2508,7 +2981,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-059",
@@ -2551,7 +3031,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-060",
@@ -2595,7 +3082,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习",
+        "混合系统"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-061",
@@ -2638,7 +3135,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-062",
@@ -2681,7 +3185,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-063",
@@ -2724,7 +3234,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-064",
@@ -2767,7 +3284,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-065",
@@ -2810,7 +3333,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-066",
@@ -2853,7 +3382,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-067",
@@ -2896,7 +3432,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-068",
@@ -2939,7 +3483,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-069",
@@ -2982,7 +3535,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-070",
@@ -3025,7 +3585,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-071",
@@ -3068,7 +3635,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "资源配置"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-072",
@@ -3111,7 +3686,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-073",
@@ -3154,7 +3738,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-074",
@@ -3197,7 +3787,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-075",
@@ -3240,7 +3837,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-076",
@@ -3284,7 +3887,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-077",
@@ -3327,7 +3940,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-078",
@@ -3371,7 +3991,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-079",
@@ -3414,7 +4043,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-080",
@@ -3457,7 +4094,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-081",
@@ -3500,7 +4144,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-082",
@@ -3544,7 +4195,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-083",
@@ -3587,7 +4247,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-084",
@@ -3630,7 +4298,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-085",
@@ -3673,7 +4348,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-086",
@@ -3716,7 +4397,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-087",
@@ -3759,7 +4447,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-088",
@@ -3802,7 +4497,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-089",
@@ -3845,7 +4547,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-090",
@@ -3888,7 +4596,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-091",
@@ -3931,7 +4646,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-092",
@@ -3975,7 +4697,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-093",
@@ -4019,7 +4751,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-094",
@@ -4062,7 +4804,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-095",
@@ -4106,7 +4854,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [
+        "GBDT / 树模型",
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-096",
@@ -4150,7 +4908,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-097",
@@ -4193,7 +4960,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-098",
@@ -4237,7 +5010,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-099",
@@ -4280,7 +5061,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 3
     },
     {
       "id": "DM-100",
@@ -4323,7 +5113,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-101",
@@ -4366,7 +5163,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-102",
@@ -4409,7 +5212,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-103",
@@ -4452,7 +5261,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-104",
@@ -4495,7 +5310,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-105",
@@ -4538,7 +5359,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "验证与审核",
+        "路由与分配"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-106",
@@ -4581,7 +5411,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-107",
@@ -4624,7 +5460,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "深度学习",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-108",
@@ -4667,7 +5512,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-109",
@@ -4710,7 +5561,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-110",
@@ -4753,7 +5610,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-111",
@@ -4796,7 +5661,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-112",
@@ -4839,7 +5712,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-113",
@@ -4883,7 +5763,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [
+        "专用决策模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-114",
@@ -4926,7 +5816,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-115",
@@ -4969,7 +5867,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-116",
@@ -5012,7 +5918,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-117",
@@ -5055,7 +5969,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-118",
@@ -5098,7 +6018,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "资源配置",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-119",
@@ -5141,7 +6070,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-120",
@@ -5184,7 +6121,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-121",
@@ -5227,7 +6172,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-122",
@@ -5270,7 +6222,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-123",
@@ -5313,7 +6272,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-124",
@@ -5356,7 +6323,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-125",
@@ -5399,7 +6372,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-126",
@@ -5442,7 +6421,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-127",
@@ -5485,7 +6471,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-128",
@@ -5528,7 +6522,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "路由与分配",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-129",
@@ -5571,7 +6573,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-130",
@@ -5614,7 +6623,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-131",
@@ -5657,7 +6673,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-132",
@@ -5700,7 +6722,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-133",
@@ -5743,7 +6772,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-134",
@@ -5786,7 +6823,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-135",
@@ -5829,7 +6872,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "排序与推荐",
+        "路由与分配"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-136",
@@ -5873,7 +6926,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 6
     },
     {
       "id": "DM-137",
@@ -5916,7 +6977,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM0138",
@@ -5960,7 +7028,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0139",
@@ -6003,7 +7080,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0140",
@@ -6046,7 +7131,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0141",
@@ -6089,7 +7183,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0142",
@@ -6132,7 +7234,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0143",
@@ -6175,7 +7285,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0144",
@@ -6218,7 +7336,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "路由与分配",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0145",
@@ -6261,7 +7387,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "混合系统"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0146",
@@ -6305,7 +7440,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI",
+        "SLM"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0147",
@@ -6349,7 +7495,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI",
+        "SLM"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0148",
@@ -6392,7 +7547,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0149",
@@ -6435,7 +7597,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0150",
@@ -6478,7 +7647,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐",
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0151",
@@ -6521,7 +7698,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0152",
@@ -6564,7 +7748,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0153",
@@ -6607,7 +7800,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "路由与分配",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0154",
@@ -6650,7 +7852,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0155",
@@ -6693,7 +7903,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0156",
@@ -6736,7 +7952,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0157",
@@ -6779,7 +8004,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [
+        "深度学习",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0158",
@@ -6822,7 +8056,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0159",
@@ -6865,7 +8105,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0160",
@@ -6908,7 +8155,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0161",
@@ -6952,7 +8205,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0162",
@@ -6995,7 +8259,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0163",
@@ -7038,7 +8309,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配"
+      ],
+      "canonicalModels": [
+        "混合系统"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0164",
@@ -7081,7 +8360,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0165",
@@ -7124,7 +8409,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0166",
@@ -7167,7 +8458,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0167",
@@ -7210,7 +8509,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0168",
@@ -7253,7 +8559,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0169",
@@ -7296,7 +8609,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0170",
@@ -7339,7 +8659,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0171",
@@ -7382,7 +8709,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0172",
@@ -7425,7 +8758,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "深度学习",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0173",
@@ -7468,7 +8811,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "排序与推荐",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "深度学习",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0174",
@@ -7511,7 +8865,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM0175",
@@ -7554,7 +8916,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0176",
@@ -7597,7 +8966,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM0177",
@@ -7640,7 +9016,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "异常检测",
+        "资源配置"
+      ],
+      "canonicalModels": [
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-178",
@@ -7683,7 +9069,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "排序与推荐",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-179",
@@ -7726,7 +9120,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-180",
@@ -7769,7 +9171,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-181",
@@ -7812,7 +9222,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-182",
@@ -7855,7 +9271,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-183",
@@ -7898,7 +9320,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-184",
@@ -7941,7 +9370,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-185",
@@ -7984,7 +9419,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-186",
@@ -8027,7 +9469,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "其他决策任务"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-187",
@@ -8070,7 +9518,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-188",
@@ -8113,7 +9568,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-189",
@@ -8156,7 +9617,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-190",
@@ -8199,7 +9668,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-191",
@@ -8242,7 +9719,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-192",
@@ -8285,7 +9768,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-193",
@@ -8328,7 +9818,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "预测",
+        "资源配置",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 1
     },
     {
       "id": "DM-194",
@@ -8371,7 +9869,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-195",
@@ -8414,7 +9919,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "路由与分配",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-196",
@@ -8457,7 +9970,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-197",
@@ -8500,7 +10021,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-198",
@@ -8543,7 +10071,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "排序与推荐",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-199",
@@ -8586,7 +10121,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-200",
@@ -8629,7 +10172,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-201",
@@ -8672,7 +10224,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "路由与分配",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-202",
@@ -8715,7 +10277,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "异常检测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-203",
@@ -8758,7 +10328,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-204",
@@ -8801,7 +10379,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-205",
@@ -8844,7 +10431,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-206",
@@ -8887,7 +10482,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "排序与推荐",
+        "验证与审核",
+        "路由与分配"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-207",
@@ -8930,7 +10534,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-208",
@@ -8973,7 +10584,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 3
     },
     {
       "id": "DM-209",
@@ -9016,7 +10636,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "路由与分配",
+        "预测"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-210",
@@ -9059,7 +10687,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-211",
@@ -9102,7 +10736,13 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-212",
@@ -9145,7 +10785,15 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "资源配置"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 2
     },
     {
       "id": "DM-213",
@@ -9188,7 +10836,14 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "策略执行"
+      ],
+      "canonicalModels": [],
+      "modelEvidenceClass": "unknown",
+      "featuredScore": 4
     },
     {
       "id": "DM-214",
@@ -9232,7 +10887,19 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "排序与推荐",
+        "路由与分配"
+      ],
+      "canonicalModels": [
+        "专用决策模型",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-215",
@@ -9276,7 +10943,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [
+        "专用决策模型",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-216",
@@ -9320,7 +10997,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "排序与推荐"
+      ],
+      "canonicalModels": [
+        "专用决策模型",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-217",
@@ -9364,7 +11052,21 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核",
+        "异常检测",
+        "预测"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI",
+        "传统机器学习",
+        "混合系统"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-218",
@@ -9408,7 +11110,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分"
+      ],
+      "canonicalModels": [
+        "视觉模型",
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-219",
@@ -9452,7 +11164,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-220",
@@ -9496,7 +11218,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "验证与审核",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-221",
@@ -9540,7 +11273,19 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "排序与推荐",
+        "路由与分配"
+      ],
+      "canonicalModels": [
+        "专用决策模型",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 5
     },
     {
       "id": "DM-222",
@@ -9580,7 +11325,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI",
+        "视觉模型"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 6
     },
     {
       "id": "DM-223",
@@ -9620,7 +11375,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "LLM / 生成式 AI",
+        "混合系统"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 6
     },
     {
       "id": "DM-224",
@@ -9660,7 +11426,18 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "路由与分配",
+        "预测",
+        "资源配置"
+      ],
+      "canonicalModels": [
+        "GBDT / 树模型",
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 6
     },
     {
       "id": "DM-225",
@@ -9700,7 +11477,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "排序与推荐"
+      ],
+      "canonicalModels": [
+        "混合系统"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 6
     },
     {
       "id": "DM-226",
@@ -9740,7 +11526,16 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 4
     },
     {
       "id": "DM-227",
@@ -9780,7 +11575,17 @@
       "status": "Review Required",
       "publicationStatus": "hold_for_review",
       "reviewPriority": "needs_source_date_and_model_check",
-      "sourceCheckedV9": false
+      "sourceCheckedV9": false,
+      "taskGroups": [
+        "分类",
+        "风险评分",
+        "异常检测"
+      ],
+      "canonicalModels": [
+        "深度学习"
+      ],
+      "modelEvidenceClass": "analytical",
+      "featuredScore": 6
     },
     {
       "id": "DM-228",
@@ -9820,7 +11625,17 @@
       "status": "Verified",
       "publicationStatus": "reviewed_candidate",
       "reviewPriority": "source_checked",
-      "sourceCheckedV9": true
+      "sourceCheckedV9": true,
+      "taskGroups": [
+        "风险评分",
+        "异常检测",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "专用决策模型"
+      ],
+      "modelEvidenceClass": "disclosed",
+      "featuredScore": 11
     },
     {
       "id": "DM-229",
@@ -9860,7 +11675,16 @@
       "status": "Verified",
       "publicationStatus": "reviewed_candidate",
       "reviewPriority": "source_checked",
-      "sourceCheckedV9": true
+      "sourceCheckedV9": true,
+      "taskGroups": [
+        "分类",
+        "排序与推荐"
+      ],
+      "canonicalModels": [
+        "专用决策模型"
+      ],
+      "modelEvidenceClass": "disclosed",
+      "featuredScore": 11
     },
     {
       "id": "DM-230",
@@ -9900,7 +11724,15 @@
       "status": "Verified",
       "publicationStatus": "reviewed_candidate",
       "reviewPriority": "source_checked",
-      "sourceCheckedV9": true
+      "sourceCheckedV9": true,
+      "taskGroups": [
+        "排序与推荐"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "disclosed",
+      "featuredScore": 11
     },
     {
       "id": "DM-231",
@@ -9940,7 +11772,16 @@
       "status": "Verified",
       "publicationStatus": "reviewed_candidate",
       "reviewPriority": "source_checked",
-      "sourceCheckedV9": true
+      "sourceCheckedV9": true,
+      "taskGroups": [
+        "排序与推荐",
+        "预测"
+      ],
+      "canonicalModels": [
+        "传统机器学习"
+      ],
+      "modelEvidenceClass": "disclosed",
+      "featuredScore": 9
     },
     {
       "id": "DM-232",
@@ -9980,7 +11821,18 @@
       "status": "Verified",
       "publicationStatus": "reviewed_candidate",
       "reviewPriority": "source_checked",
-      "sourceCheckedV9": true
+      "sourceCheckedV9": true,
+      "taskGroups": [
+        "风险评分",
+        "验证与审核",
+        "策略执行"
+      ],
+      "canonicalModels": [
+        "传统机器学习",
+        "混合系统"
+      ],
+      "modelEvidenceClass": "disclosed",
+      "featuredScore": 11
     }
   ]
 }

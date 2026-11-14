@@ -3,7 +3,8 @@
   "findings": [
     {
       "id": "CL-01",
-      "title": "产业采用率",
+      "title": "企业 AI 采用持续上升，但不能据此推断决策模型份额",
+      "titleEn": "Research finding CL-01",
       "summary": "欧盟企业AI采用率在2023到2025年显著提高",
       "metric": "2023:8.0%;2024:13.5%;2025:20.0%",
       "organization": "Eurostat",
@@ -16,11 +17,14 @@
       "findingType": "Descriptive Observation",
       "theme": "Scalable",
       "supportingCaseIds": [],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "官方统计显示总体 AI 使用扩大，为决策技术研究提供了更广泛的产业背景。",
+      "researchOpportunity": "如何建立能够区分模型类别、决策任务与部署成熟度的采用率统计？"
     },
     {
       "id": "CL-02",
-      "title": "产业采用率",
+      "title": "AI 已进入更多企业职能，Agent 决策仍处早期阶段",
+      "titleEn": "Research finding CL-02",
       "summary": "全球受访企业报告AI采用率较高，但Agent实际采用仍早期",
       "metric": "2025年88%受访组织至少一职能使用AI；Agent在多数职能为个位数比例",
       "organization": "Stanford AI Index 2026",
@@ -33,11 +37,14 @@
       "findingType": "Descriptive Observation",
       "theme": "Adaptive",
       "supportingCaseIds": [],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "调查口径与官方企业统计不同，但共同说明 AI 应用扩张与 Agent 落地成熟度并不同步。",
+      "researchOpportunity": "如何衡量 Agent 在真实流程中的自主程度、升级人工比例与决策质量？"
     },
     {
       "id": "CL-03",
-      "title": "产业投资",
+      "title": "企业 AI 投入规模扩大，决策模型市场仍缺少独立统计",
+      "titleEn": "Research finding CL-03",
       "summary": "2025年企业AI投资规模达到较高水平",
       "metric": "全球企业AI总投资581.69十亿美元",
       "organization": "Stanford AI Index 2026",
@@ -50,11 +57,14 @@
       "findingType": "Descriptive Observation",
       "theme": "Scalable",
       "supportingCaseIds": [],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "投资规模说明资本投入强劲，却不能替代收入、采用率或专用决策模型市场规模。",
+      "researchOpportunity": "如何建立专用决策系统的成本、收入与投资分类框架？"
     },
     {
       "id": "CL-04",
-      "title": "现实部署",
+      "title": "高频在线决策使模型服务吞吐成为关键工程约束",
+      "titleEn": "Research finding CL-04",
       "summary": "大规模在线系统可能需要极高频模型预测",
       "metric": "Uber报告平台5000+在产模型及峰值1000万次/秒预测",
       "organization": "Uber",
@@ -70,11 +80,14 @@
         "DM-224",
         "DM-225"
       ],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "Uber 的平台指标表明，生产决策基础设施可能同时承载大量模型和高频预测。",
+      "researchOpportunity": "如何在吞吐、延迟、成本与校准质量之间进行可验证的联合优化？"
     },
     {
       "id": "CL-05",
-      "title": "技术产品化",
+      "title": "专用决策接口开始把多问题判断压缩为低延迟服务",
+      "titleEn": "Research finding CL-05",
       "summary": "专用闭集Decision模型提供概率输出与多任务决策",
       "metric": "Gemini Decision 1单请求最多1000问题；150-250ms端到端；$0.10/百万输入tokens",
       "organization": "Google DeepMind",
@@ -89,11 +102,14 @@
       "supportingCaseIds": [
         "DM-228"
       ],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "厂商披露显示，闭集多问题判断正在形成独立接口，但性能尚缺少第三方比较。",
+      "researchOpportunity": "如何设计跨任务、可校准且可复现的专用决策模型基准？"
     },
     {
       "id": "CL-06",
-      "title": "持续适应",
+      "title": "分布变化推动风险模型采用更频繁的更新与影子验证",
+      "titleEn": "Research finding CL-06",
       "summary": "线上风险模型会面临随时间演化的分布变化",
       "metric": "Cloudflare于2026年8月推出更频繁重训及shadow验证的引擎",
       "organization": "Cloudflare",
@@ -108,11 +124,14 @@
       "supportingCaseIds": [
         "DM-232"
       ],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "单一企业实践显示持续重训与 shadow validation 正进入在线风险系统。",
+      "researchOpportunity": "如何检测何时需要更新，并在不扰动生产策略的条件下验证新模型？"
     },
     {
       "id": "CL-07",
-      "title": "决策控制",
+      "title": "风险评分需要通过规则与阈值层转化为可执行动作",
+      "titleEn": "Research finding CL-07",
       "summary": "生产风险评分和执行动作往往通过规则层连接",
       "metric": "Cloudflare Bot Score 1–99，用WAF规则执行block/challenge/allow",
       "organization": "Cloudflare",
@@ -127,11 +146,14 @@
       "supportingCaseIds": [
         "DM-232"
       ],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "生产系统中的分数并不天然等于概率，执行仍依赖策略阈值和人工升级路径。",
+      "researchOpportunity": "如何联合学习评分、校准、阈值与人工复核策略？"
     },
     {
       "id": "CL-08",
-      "title": "研发趋势",
+      "title": "模型路由与工具权限正在成为独立决策任务",
+      "titleEn": "Research finding CL-08",
       "summary": "模型路由与权限安全可以是独立Decision模型应用",
       "metric": "Google报告在Notebook与Search MCP安全层使用Gemini Decision 1",
       "organization": "Google DeepMind",
@@ -147,7 +169,9 @@
         "DM-228",
         "DM-229"
       ],
-      "reviewStatus": "V9 已核查"
+      "reviewStatus": "V9 已核查",
+      "interpretation": "厂商内部案例表明，安全判断可以位于 Agent 工具调用之前，但外部部署证据仍有限。",
+      "researchOpportunity": "如何验证跨工具、跨攻击类型的泛化与低漏报安全决策？"
     }
   ]
 }
