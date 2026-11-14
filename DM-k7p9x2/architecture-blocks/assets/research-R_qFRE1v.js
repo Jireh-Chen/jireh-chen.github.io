@@ -1,1 +1,0 @@
-import{w as e}from"./VerificationBadge-TS3p32AJ.js";function t(t,n,r){return r===`zh-CN`?e.architectures[t]??n:n}function n(t,n,r){return r===`zh-CN`?e.components?.[t]??n:n}e.translation_status,e.review_status,e.last_updated;export{n,t};

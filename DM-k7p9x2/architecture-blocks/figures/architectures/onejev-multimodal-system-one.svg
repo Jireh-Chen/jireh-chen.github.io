@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">OneJev multimodal shared-prefix decision architecture</title>
+  <desc id="desc">Typed state, media, and questions pass through a Qwen multimodal backbone, a shared-prefix question fork, answer-slot readout, and typed probability decoder.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="var(--diagram-edge,#66768b)"/></marker></defs>
+  <style>
+    .node{stroke:var(--diagram-border,#9aa9bb);stroke-width:2;rx:16}.input{fill:var(--diagram-input,#e8edf3)}.encoding{fill:var(--diagram-encoding,#dce9ff)}.processing{fill:var(--diagram-processing,#ece4ff)}.decision{fill:var(--diagram-decision,#d8f2ed)}.output{fill:var(--diagram-output,#d8f2ed)}
+    .edge{stroke:var(--diagram-edge,#66768b);stroke-width:3;fill:none;marker-end:url(#arrow)}.label{font:600 18px Inter,"Noto Sans SC",sans-serif;fill:var(--diagram-text,#1b2b43);text-anchor:middle}.meta{font:14px Inter,"Noto Sans SC",sans-serif;fill:var(--diagram-muted,#66768b);text-anchor:middle}.edge-label{font:13px Inter,sans-serif;fill:var(--diagram-muted,#66768b);text-anchor:middle}
+  </style>
+  <path class="edge" d="M218 210H254"/><path class="edge" d="M466 210H502"/><path class="edge" d="M714 210H750"/><path class="edge" d="M930 210H966"/>
+  <g id="node-input"><rect class="node input" x="24" y="105" width="194" height="210"/><text class="label" x="121" y="160"><tspan x="121">Typed request</tspan></text><text class="meta" x="121" y="202"><tspan x="121">state + text</tspan><tspan x="121" dy="24">image / video</tspan><tspan x="121" dy="24">noul / choice / score</tspan></text></g>
+  <g id="node-backbone"><rect class="node encoding" x="254" y="105" width="212" height="210"/><text class="label" x="360" y="155"><tspan x="360">Qwen multimodal</tspan><tspan x="360" dy="24">backbone</tspan></text><text class="meta" x="360" y="225"><tspan x="360">vision tokens</tspan><tspan x="360" dy="24">+ causal decoder</tspan></text></g>
+  <g id="node-fork"><rect class="node processing" x="502" y="105" width="212" height="210"/><text class="label" x="608" y="155"><tspan x="608">Shared-prefix</tspan><tspan x="608" dy="24">question fork</tspan></text><text class="meta" x="608" y="225"><tspan x="608">prefix computed once</tspan><tspan x="608" dy="24">isolated text branches</tspan></text></g>
+  <g id="node-readout"><rect class="node decision" x="750" y="105" width="180" height="210"/><text class="label" x="840" y="160"><tspan x="840">Answer-slot</tspan><tspan x="840" dy="24">readout</tspan></text><text class="meta" x="840" y="232"><tspan x="840">restricted token</tspan><tspan x="840" dy="24">logits</tspan></text></g>
+  <g id="node-output"><rect class="node output" x="966" y="105" width="210" height="210"/><text class="label" x="1071" y="155"><tspan x="1071">Typed probability</tspan><tspan x="1071" dy="24">decoder</tspan></text><text class="meta" x="1071" y="225"><tspan x="1071">yes probability</tspan><tspan x="1071" dy="24">choice distribution</tspan><tspan x="1071" dy="24">score expectation</tspan></text></g>
+  <text class="edge-label" x="484" y="190">shared state</text><text class="edge-label" x="732" y="190">branches</text>
+  <text class="meta" x="600" y="372">Source-grounded simplified decision path · training-only loss omitted from inference diagram</text>
+</svg>
